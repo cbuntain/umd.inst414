@@ -1,0 +1,1886 @@
+imdb_id,predicted,actual genres,correct?
+tt6988296,Action,"['Drama', 'Thriller']",0
+tt8514848,Drama,['Drama'],1
+tt10083340,Drama,"['Biography', 'Crime', 'Drama']",1
+tt1754871,Horror,"['Drama', 'Fantasy', 'Western']",0
+tt1179891,Crime,"['Horror', 'Mystery', 'Thriller']",0
+tt13126492,Drama,"['Action', 'Drama', 'History']",1
+tt1043838,Comedy,"['Mystery', 'Thriller']",0
+tt0420238,Drama,"['Adventure', 'Animation', 'Comedy']",0
+tt5564336,Comedy,"['Sci-Fi', 'Thriller']",0
+tt2076879,Drama,['Thriller'],0
+tt3505754,Drama,['Comedy'],0
+tt1781944,Horror,"['Comedy', 'Documentary']",0
+tt0402057,Drama,"['Action', 'Adventure', 'Drama']",1
+tt1134666,Drama,['Animation'],0
+tt0386741,Drama,"['Action', 'Animation', 'Sci-Fi']",0
+tt0415306,Comedy,"['Comedy', 'Sport']",1
+tt10687166,Drama,['Drama'],1
+tt3608352,Thriller,['Comedy'],0
+tt5636234,Action,"['Action', 'Adventure', 'Comedy']",1
+tt0765465,Comedy,"['Animation', 'Family', 'Fantasy']",0
+tt1826813,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt1152277,Drama,"['Action', 'Adventure', 'Comedy']",0
+tt0482546,Drama,"['Biography', 'Drama', 'Romance']",1
+tt0413015,Drama,"['Comedy', 'Drama', 'Music']",1
+tt0871426,Drama,"['Comedy', 'Romance']",0
+tt0320668,Comedy,"['Comedy', 'Drama']",1
+tt0317303,Comedy,"['Comedy', 'Family']",1
+tt2084093,Drama,['Drama'],1
+tt5282590,Drama,"['Horror', 'Romance', 'Thriller']",0
+tt0421229,Drama,"['Comedy', 'Drama']",1
+tt1864492,Thriller,['Horror'],0
+tt7179784,Drama,"['Action', 'Crime', 'Thriller']",0
+tt1666612,Horror,"['Comedy', 'Horror', 'Thriller']",1
+tt9815998,Drama,"['Comedy', 'Drama']",1
+tt0277296,Action,"['Action', 'Adventure', 'Fantasy']",1
+tt2571362,Horror,"['Action', 'Drama', 'Sci-Fi']",0
+tt9386648,Drama,['Drama'],1
+tt1431122,Drama,"['Action', 'Comedy', 'Crime']",0
+tt3409432,Drama,"['Crime', 'Drama']",1
+tt9264336,Drama,"['Action', 'Comedy', 'Drama']",1
+tt0208050,Comedy,"['Comedy', 'Romance']",1
+tt4623902,Drama,['Drama'],1
+tt8983240,Comedy,['Drama'],0
+tt5748392,Drama,['Horror'],0
+tt1260352,Action,"['Action', 'Adventure', 'Comedy']",1
+tt0140806,Thriller,"['Drama', 'Music']",0
+tt1579534,Action,['Romance'],0
+tt11316314,Horror,['Horror'],1
+tt0340527,Drama,['Documentary'],0
+tt5058014,Drama,['Drama'],1
+tt5851786,Comedy,"['Adventure', 'Animation', 'Comedy']",1
+tt5277266,Drama,"['Action', 'Drama']",1
+tt0212346,Comedy,"['Action', 'Comedy', 'Crime']",1
+tt0372183,Documentary,"['Action', 'Mystery', 'Thriller']",0
+tt0454082,Comedy,['Horror'],0
+tt0498480,Drama,['Romance'],0
+tt9410034,Drama,['Drama'],1
+tt1039989,Drama,"['Action', 'Comedy', 'Mystery']",0
+tt1677637,Thriller,"['Crime', 'Thriller']",1
+tt12687608,Documentary,"['Documentary', 'Drama']",1
+tt0499075,Drama,"['Drama', 'Thriller']",1
+tt8896632,Thriller,"['Family', 'Sci-Fi', 'Thriller']",1
+tt0202623,Documentary,"['Comedy', 'Romance']",0
+tt2057917,Horror,"['Action', 'Comedy', 'Sci-Fi']",0
+tt0867295,Drama,"['Drama', 'Horror', 'Thriller']",1
+tt10195452,Drama,"['Drama', 'Thriller']",1
+tt1527827,Drama,['Drama'],1
+tt0195944,Action,"['Action', 'Drama']",1
+tt7383680,Horror,['Horror'],1
+tt2771372,Comedy,"['Crime', 'Drama', 'Mystery']",0
+tt9341668,Western,['Thriller'],0
+tt0438365,Drama,"['Comedy', 'Romance']",0
+tt5688068,Comedy,"['Action', 'Biography', 'Crime']",0
+tt17527124,Drama,['Thriller'],0
+tt0810823,Drama,"['Horror', 'Thriller']",0
+tt11045422,Drama,"['Action', 'Drama', 'Sport']",1
+tt5057140,Drama,"['Action', 'Crime', 'Drama']",1
+tt0132245,Action,"['Action', 'Drama', 'Sport']",1
+tt0250698,Action,['Horror'],0
+tt0407205,Comedy,['Drama'],0
+tt3679060,Drama,"['Action', 'Adventure', 'Comedy']",0
+tt15546822,Drama,"['Comedy', 'Crime', 'Drama']",1
+tt8433210,Comedy,"['Crime', 'Drama', 'Horror']",0
+tt3281548,Drama,"['Drama', 'Romance']",1
+tt4460854,Comedy,"['Comedy', 'Drama']",1
+tt6111574,Drama,"['Crime', 'Drama', 'Mystery']",1
+tt1836837,Animation,['Animation'],1
+tt5943392,Drama,['Romance'],0
+tt1346630,Horror,['Horror'],1
+tt6047374,Action,"['Action', 'Comedy', 'Thriller']",1
+tt1756427,Action,"['Action', 'Comedy']",1
+tt1385824,Drama,"['Drama', 'Horror', 'Mystery']",1
+tt2909932,Drama,"['Action', 'Mystery', 'Thriller']",0
+tt2036453,Horror,['Horror'],1
+tt0385017,Drama,"['Drama', 'Mystery', 'Thriller']",1
+tt3142688,Drama,"['Adventure', 'Comedy', 'Drama']",1
+tt12873562,Action,"['Horror', 'Thriller']",0
+tt4540434,Comedy,"['Action', 'Drama', 'Sci-Fi']",0
+tt0295297,Adventure,"['Adventure', 'Family', 'Fantasy']",1
+tt1419989,Drama,['Drama'],1
+tt0276868,Drama,"['Crime', 'Romance', 'Thriller']",0
+tt3903852,Comedy,"['Action', 'Crime', 'Thriller']",0
+tt0810928,Drama,['Drama'],1
+tt1916735,Drama,['Drama'],1
+tt1083450,Drama,['Drama'],1
+tt1692486,Drama,"['Comedy', 'Drama']",1
+tt9354944,Comedy,"['Comedy', 'Romance', 'Sci-Fi']",1
+tt1912993,Drama,['Drama'],1
+tt11718526,Drama,"['Comedy', 'Romance']",0
+tt3846120,Drama,"['Sci-Fi', 'Thriller']",0
+tt0425141,Horror,"['Horror', 'Sci-Fi']",1
+tt8426808,Animation,['Animation'],1
+tt9261416,Drama,['Drama'],1
+tt3802576,Comedy,"['Action', 'Drama', 'Sport']",0
+tt5563782,Crime,"['Horror', 'Mystery', 'Thriller']",0
+tt9023512,Action,"['Drama', 'History']",0
+tt1287363,Action,"['Action', 'Crime', 'Horror']",1
+tt4177856,Comedy,"['Animation', 'Family']",0
+tt1756476,Action,"['Action', 'Comedy', 'Drama']",1
+tt0265086,Drama,"['Action', 'Drama', 'History']",1
+tt5206770,Drama,"['Horror', 'Thriller']",0
+tt12590438,Horror,['Action'],0
+tt0244437,Drama,"['Comedy', 'Family']",0
+tt0319524,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt7189558,Comedy,"['Comedy', 'Drama']",1
+tt1015976,Thriller,"['Crime', 'Thriller']",1
+tt0372375,Thriller,"['Adventure', 'Drama', 'Romance']",0
+tt3320542,Thriller,"['Action', 'Crime', 'Drama']",0
+tt2786780,Horror,"['Crime', 'Horror', 'Thriller']",1
+tt11531324,Drama,"['Action', 'Drama', 'Thriller']",1
+tt3137764,Comedy,"['Comedy', 'Drama']",1
+tt3954758,Comedy,['Documentary'],0
+tt0445035,Drama,"['Comedy', 'Drama']",1
+tt0257076,Documentary,"['Action', 'Adventure', 'Crime']",0
+tt11127314,Animation,"['Animation', 'Family']",1
+tt0363771,Documentary,"['Adventure', 'Family', 'Fantasy']",0
+tt3027994,Comedy,"['Action', 'Crime', 'Drama']",0
+tt7905168,Comedy,['Romance'],0
+tt0345074,Drama,"['Comedy', 'Crime', 'Music']",0
+tt0288243,Drama,"['Drama', 'Horror', 'Mystery']",1
+tt6747420,Drama,"['Comedy', 'Drama', 'Family']",1
+tt13207508,Drama,"['Drama', 'Romance', 'Sci-Fi']",1
+tt1161450,Drama,"['Action', 'Adventure', 'Drama']",1
+tt3447462,Comedy,"['Drama', 'Mystery', 'Romance']",0
+tt1959438,Drama,"['Drama', 'Horror', 'Romance']",1
+tt1107838,Drama,"['Comedy', 'Drama']",1
+tt5657846,Action,['Comedy'],0
+tt1339404,Comedy,"['Comedy', 'Drama']",1
+tt15528116,Comedy,"['Animation', 'Horror', 'Mystery']",0
+tt0339135,Action,"['Action', 'Drama', 'Thriller']",1
+tt7627774,Drama,['Drama'],1
+tt3963674,Thriller,"['Crime', 'Sci-Fi', 'Thriller']",1
+tt3783958,Comedy,"['Comedy', 'Drama', 'Music']",1
+tt2435458,Drama,"['Comedy', 'Drama']",1
+tt0264683,Drama,"['Comedy', 'Crime']",0
+tt15353964,Drama,"['Drama', 'Mystery', 'Sci-Fi']",1
+tt1465514,Drama,"['Action', 'Crime', 'Drama']",1
+tt0252918,Drama,"['Comedy', 'Drama', 'Fantasy']",1
+tt2674426,Drama,"['Drama', 'Romance']",1
+tt0215679,Drama,"['Comedy', 'Romance']",0
+tt0450345,Drama,"['Horror', 'Mystery', 'Thriller']",0
+tt1274273,Drama,"['Drama', 'Horror', 'Sci-Fi']",1
+tt0337744,Action,"['Horror', 'Thriller']",0
+tt0328875,Comedy,"['Comedy', 'Drama']",1
+tt15422276,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt5206098,Drama,['Drama'],1
+tt0490215,Documentary,"['Drama', 'History']",0
+tt6711660,Drama,"['Action', 'Crime', 'Thriller']",0
+tt1747958,Comedy,"['Action', 'Crime', 'Drama']",0
+tt0762138,Comedy,"['Comedy', 'Drama', 'Romance']",1
+tt0179473,Drama,"['Drama', 'Western']",1
+tt7149336,Comedy,['Comedy'],1
+tt1247683,Comedy,"['Comedy', 'Drama']",1
+tt2271641,Action,"['Action', 'Thriller']",1
+tt0391928,Comedy,['Documentary'],0
+tt4196450,Drama,"['Biography', 'Drama', 'History']",1
+tt8851668,Drama,"['Action', 'Comedy', 'Crime']",0
+tt6097522,Horror,['Horror'],1
+tt6163142,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt6128292,Drama,"['Action', 'Drama']",1
+tt2842842,Drama,['Drama'],1
+tt1996226,Thriller,['Drama'],0
+tt0264395,Documentary,"['Action', 'Crime', 'Drama']",0
+tt7945440,Drama,"['Drama', 'Thriller']",1
+tt7778560,Drama,"['Action', 'Romance']",0
+tt2089833,Drama,['Drama'],1
+tt14507160,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt0758771,Drama,"['Action', 'Crime', 'Drama']",1
+tt4144190,Drama,"['Comedy', 'Drama']",1
+tt0852940,Comedy,['Horror'],0
+tt0153100,Horror,['Drama'],0
+tt7349950,Drama,"['Drama', 'Fantasy', 'Horror']",1
+tt6236780,Drama,"['Comedy', 'Horror']",0
+tt2106616,Drama,"['Action', 'Drama', 'Horror']",1
+tt0884328,Drama,"['Horror', 'Sci-Fi', 'Thriller']",0
+tt5471472,Drama,"['Biography', 'Crime', 'Drama']",1
+tt2059171,Drama,"['Horror', 'Thriller']",0
+tt13429928,Action,"['Action', 'Adventure', 'History']",1
+tt17250160,Drama,['Thriller'],0
+tt8869978,Drama,"['Action', 'Crime', 'Drama']",1
+tt2243537,Comedy,"['Comedy', 'Fantasy', 'Horror']",1
+tt3092520,Comedy,['Romance'],0
+tt15415976,Drama,"['Action', 'Comedy', 'Drama']",1
+tt1073486,Horror,"['Crime', 'Drama', 'Horror']",1
+tt2387575,Documentary,"['Drama', 'Romance']",0
+tt12637548,Drama,"['Action', 'Drama', 'Romance']",1
+tt6966692,Drama,"['Biography', 'Comedy', 'Drama']",1
+tt9537292,Comedy,"['Action', 'Comedy', 'Drama']",1
+tt11662660,Drama,"['Animation', 'Comedy', 'Sci-Fi']",0
+tt8015444,Documentary,"['Fantasy', 'Mystery', 'Sci-Fi']",0
+tt2352722,Drama,"['Drama', 'Horror', 'Sci-Fi']",1
+tt0379538,Drama,['Drama'],1
+tt1477185,Drama,"['Drama', 'Thriller']",1
+tt7737786,Action,"['Action', 'Thriller']",1
+tt2350500,Thriller,['Animation'],0
+tt8902978,Drama,['Drama'],1
+tt2379713,Action,"['Action', 'Adventure', 'Thriller']",1
+tt6383494,Drama,"['Comedy', 'Drama']",1
+tt2717822,Drama,"['Action', 'Crime', 'Thriller']",0
+tt0270259,Drama,"['Drama', 'Thriller']",1
+tt5164432,Comedy,"['Comedy', 'Drama', 'Romance']",1
+tt1937264,Drama,"['Drama', 'Romance']",1
+tt5644624,Drama,['Crime'],0
+tt13873674,Drama,['Drama'],1
+tt8094252,Action,"['Action', 'Drama']",1
+tt0223954,Drama,['Drama'],1
+tt1031256,Thriller,"['Action', 'Crime', 'History']",0
+tt3672120,Documentary,['Comedy'],0
+tt2614400,Drama,"['Biography', 'Drama', 'Fantasy']",1
+tt6343314,Drama,"['Action', 'Drama', 'Sport']",1
+tt13872244,Action,"['Action', 'Drama', 'Sport']",1
+tt1064744,Drama,"['Horror', 'Thriller']",0
+tt2322517,Drama,"['Drama', 'Thriller']",1
+tt14997764,Comedy,"['Horror', 'Thriller']",0
+tt0277705,Drama,"['Drama', 'Sci-Fi', 'Thriller']",1
+tt0421045,Drama,"['Comedy', 'Romance']",0
+tt4146622,Drama,"['Action', 'Crime', 'Thriller']",0
+tt0956332,Drama,['Documentary'],0
+tt2101383,Drama,"['Drama', 'Fantasy', 'Romance']",1
+tt1077368,Documentary,"['Comedy', 'Fantasy', 'Horror']",0
+tt1904996,Documentary,"['Action', 'Crime', 'Thriller']",0
+tt0379341,Drama,['Drama'],1
+tt0331525,Drama,"['Drama', 'Thriller']",1
+tt3451230,Drama,"['Drama', 'Music', 'Romance']",1
+tt0338216,Comedy,"['Drama', 'Romance', 'Sport']",0
+tt9620292,Comedy,"['Crime', 'Drama', 'Mystery']",0
+tt4211312,Drama,"['Drama', 'Sci-Fi']",1
+tt1393742,Drama,['Comedy'],0
+tt0283632,Drama,"['Horror', 'Mystery', 'Thriller']",0
+tt1900817,Horror,"['Horror', 'Sci-Fi', 'Thriller']",1
+tt0439662,Drama,"['Action', 'Drama', 'Romance']",1
+tt0825280,Drama,"['Crime', 'Mystery', 'Thriller']",0
+tt0780530,Drama,"['Drama', 'Music']",1
+tt12959754,Thriller,['Drama'],0
+tt5079608,Action,['Comedy'],0
+tt0373040,Drama,"['Comedy', 'Horror']",0
+tt1031224,Comedy,"['Comedy', 'Drama']",1
+tt4247828,Drama,['Action'],0
+tt1302006,Drama,"['Biography', 'Crime', 'Drama']",1
+tt1247704,Comedy,"['Comedy', 'Drama']",1
+tt6769280,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt4669296,Drama,"['Biography', 'Drama', 'Horror']",1
+tt3813310,Drama,"['Crime', 'Thriller']",0
+tt1258137,Drama,"['Action', 'Crime', 'Thriller']",0
+tt10954196,Horror,['Action'],0
+tt0447336,Thriller,"['Horror', 'Mystery', 'Thriller']",1
+tt0494864,Drama,"['Crime', 'Drama', 'Thriller']",1
+tt7151438,Drama,"['Comedy', 'Romance']",0
+tt0437086,Drama,"['Action', 'Adventure', 'Sci-Fi']",0
+tt1601818,Comedy,['Romance'],0
+tt0477051,Comedy,"['Comedy', 'Romance']",1
+tt0493417,Drama,"['Action', 'Comedy', 'Crime']",0
+tt3603808,Thriller,"['Horror', 'Sci-Fi']",0
+tt0489225,Comedy,"['Comedy', 'Drama']",1
+tt2935510,Drama,"['Adventure', 'Drama', 'Mystery']",1
+tt0451079,Comedy,"['Adventure', 'Animation', 'Comedy']",1
+tt2651214,Drama,"['Documentary', 'Family', 'Western']",0
+tt10691828,Drama,['Thriller'],0
+tt1232838,Drama,"['Drama', 'Thriller']",1
+tt1872818,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt1703147,Drama,"['Action', 'Drama']",1
+tt0455612,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt1285016,Drama,"['Biography', 'Drama']",1
+tt2119532,Drama,"['Biography', 'Drama', 'History']",1
+tt0481519,Drama,"['Drama', 'Thriller', 'War']",1
+tt6117158,Drama,['Drama'],1
+tt10087134,Comedy,"['Action', 'Thriller']",0
+tt3975918,Comedy,"['Comedy', 'Drama', 'Family']",1
+tt5457484,Horror,['Horror'],1
+tt4024210,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt3330764,Drama,"['Crime', 'Horror', 'Thriller']",0
+tt1013753,Drama,"['Biography', 'Comedy', 'Crime']",0
+tt0455988,Drama,"['Comedy', 'Drama']",1
+tt0305357,Comedy,"['Action', 'Adventure', 'Comedy']",1
+tt1500259,Thriller,['Documentary'],0
+tt3450900,Comedy,"['Drama', 'Fantasy', 'Mystery']",0
+tt0429589,Comedy,"['Adventure', 'Animation', 'Comedy']",1
+tt4701182,Drama,"['Action', 'Adventure', 'Sci-Fi']",0
+tt3447590,Drama,"['Comedy', 'Drama', 'Family']",1
+tt12857724,Comedy,['Drama'],0
+tt0328589,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt5748448,Action,"['Action', 'Thriller']",1
+tt1223082,Comedy,['Comedy'],1
+tt1758795,Comedy,"['Comedy', 'Romance']",1
+tt0265010,Comedy,"['Comedy', 'Romance']",1
+tt0892051,Action,"['Horror', 'Mystery', 'Thriller']",0
+tt0159365,Drama,"['Adventure', 'Drama', 'Romance']",1
+tt0337876,Drama,"['Drama', 'Fantasy', 'Mystery']",1
+tt2967006,Drama,"['Comedy', 'Drama']",1
+tt2495104,Drama,"['Drama', 'Romance', 'Sci-Fi']",1
+tt0249516,Comedy,"['Action', 'Adventure', 'Animation']",0
+tt4206228,Drama,"['Sci-Fi', 'Thriller']",0
+tt2458988,Drama,"['Drama', 'Thriller']",1
+tt11231356,Action,"['Mystery', 'Sci-Fi']",0
+tt0470000,Family,"['Drama', 'Fantasy', 'Horror']",0
+tt2724532,Thriller,['Action'],0
+tt6413038,Horror,"['Comedy', 'Horror']",1
+tt3488710,Drama,"['Adventure', 'Biography', 'Drama']",1
+tt1332504,Drama,['Action'],0
+tt1204340,Drama,['Drama'],1
+tt0124889,Thriller,"['Comedy', 'Crime']",0
+tt13846948,Drama,['Thriller'],0
+tt9012672,Drama,"['Drama', 'Thriller']",1
+tt0242508,Drama,"['Comedy', 'Crime', 'Drama']",1
+tt5472896,Drama,['Horror'],0
+tt2474984,Horror,"['Action', 'Adventure', 'Drama']",0
+tt6231588,Horror,"['Action', 'Adventure']",0
+tt0418735,Drama,['Drama'],1
+tt4910232,Thriller,"['Comedy', 'Family']",0
+tt5761986,Comedy,"['Crime', 'Horror', 'Thriller']",0
+tt1609797,Horror,"['Drama', 'Thriller']",0
+tt0298845,Drama,['Drama'],1
+tt4361050,Drama,"['Drama', 'Horror', 'Mystery']",1
+tt1043726,Action,"['Action', 'Adventure', 'Fantasy']",1
+tt6285404,Drama,['Documentary'],0
+tt1283952,Drama,"['Comedy', 'Romance']",0
+tt5178120,Drama,['Drama'],1
+tt12780810,Action,['Sport'],0
+tt8324462,Comedy,"['Horror', 'Thriller']",0
+tt1655461,Drama,"['Action', 'Adventure', 'Comedy']",0
+tt10101702,Comedy,"['Adventure', 'Animation', 'Comedy']",1
+tt14656632,Drama,"['Action', 'Thriller']",0
+tt0435710,Documentary,['Documentary'],1
+tt14199258,Drama,"['Comedy', 'Crime', 'Drama']",1
+tt1135985,Drama,"['Comedy', 'Romance']",0
+tt3300542,Documentary,"['Action', 'Thriller']",0
+tt1283278,Horror,['Thriller'],0
+tt5066056,Documentary,"['Comedy', 'Romance']",0
+tt6131232,Horror,['Horror'],1
+tt0146882,Action,"['Comedy', 'Drama', 'Music']",0
+tt6341066,Documentary,"['Crime', 'Drama', 'Mystery']",0
+tt3788018,Horror,['Comedy'],0
+tt1562849,Comedy,"['Comedy', 'Romance', 'Sport']",1
+tt0804474,Drama,['Horror'],0
+tt0312609,Drama,"['Action', 'Crime', 'Thriller']",0
+tt2254796,Comedy,"['Crime', 'Drama']",0
+tt0800268,Comedy,"['Adventure', 'Comedy']",1
+tt0245090,Documentary,"['Crime', 'Drama', 'Romance']",0
+tt0450232,Action,"['Action', 'Drama', 'Thriller']",1
+tt0271263,Comedy,"['Animation', 'Comedy', 'Musical']",1
+tt4560008,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt0206075,Documentary,['Adventure'],0
+tt0473488,Documentary,"['Crime', 'Drama']",0
+tt12764606,Horror,"['Horror', 'Thriller']",1
+tt2582498,Drama,"['Action', 'Drama', 'Thriller']",1
+tt1325004,Drama,"['Action', 'Adventure', 'Drama']",1
+tt7231572,Comedy,"['Drama', 'Romance']",0
+tt1385826,Documentary,"['Romance', 'Sci-Fi', 'Thriller']",0
+tt1704161,Drama,"['Crime', 'Drama', 'Music']",1
+tt0487022,Drama,['Documentary'],0
+tt2357003,Comedy,['Documentary'],0
+tt0311648,Drama,"['Comedy', 'Drama']",1
+tt5117670,Comedy,"['Adventure', 'Comedy', 'Crime']",1
+tt1529346,Drama,['Drama'],1
+tt1086064,Drama,"['Adventure', 'Comedy', 'Music']",0
+tt0986230,Drama,"['Comedy', 'Romance']",0
+tt0210070,Drama,"['Drama', 'Fantasy', 'Horror']",1
+tt0298296,Action,"['Action', 'Thriller']",1
+tt3501632,Action,"['Action', 'Adventure', 'Comedy']",1
+tt1498569,Drama,"['Drama', 'Romance']",1
+tt13874422,Documentary,"['Drama', 'Mystery']",0
+tt9637132,Action,"['Action', 'Drama', 'History']",1
+tt2523756,Drama,"['Comedy', 'Drama']",1
+tt0329539,Action,"['Adventure', 'Comedy', 'Family']",0
+tt4949412,Family,"['Comedy', 'Family']",1
+tt10229068,Drama,['Drama'],1
+tt3779382,Drama,['Drama'],1
+tt8106534,Comedy,"['Action', 'Thriller']",0
+tt0242423,Comedy,"['Comedy', 'Mystery', 'Sci-Fi']",1
+tt14385300,Thriller,['Action'],0
+tt9390026,Drama,['Thriller'],0
+tt5324456,Thriller,"['Crime', 'Mystery', 'Thriller']",1
+tt3978058,Horror,"['Drama', 'Romance', 'Thriller']",0
+tt1975158,Comedy,"['Comedy', 'Drama']",1
+tt3073898,Drama,"['Comedy', 'Romance', 'Sport']",0
+tt7153134,Thriller,['Comedy'],0
+tt4542598,Crime,"['Comedy', 'Fantasy']",0
+tt4040632,Drama,"['Sci-Fi', 'Thriller']",0
+tt3678656,Drama,"['Comedy', 'Drama']",1
+tt0444781,Action,"['Action', 'Comedy', 'Drama']",1
+tt0245844,Documentary,"['Action', 'Adventure', 'Drama']",0
+tt9612892,Drama,['Drama'],1
+tt1041753,Action,['Comedy'],0
+tt5629084,Action,['Documentary'],0
+tt1440379,Drama,['Drama'],1
+tt1017460,Drama,"['Horror', 'Sci-Fi']",0
+tt1318527,Drama,"['Action', 'Crime', 'Drama']",1
+tt1385867,Action,"['Action', 'Comedy', 'Crime']",1
+tt0282613,Thriller,"['Action', 'Drama']",0
+tt0466787,Comedy,"['Adventure', 'Thriller']",0
+tt1023500,Drama,"['Comedy', 'Horror', 'Sci-Fi']",0
+tt0494746,Horror,"['Horror', 'Thriller']",1
+tt2088950,Drama,"['Drama', 'Thriller']",1
+tt2401669,Horror,['Horror'],1
+tt0364751,Comedy,"['Adventure', 'Comedy', 'Mystery']",1
+tt0815250,Comedy,"['Drama', 'Sci-Fi']",0
+tt0274309,Comedy,"['Biography', 'Comedy', 'Drama']",1
+tt0430770,Drama,"['Comedy', 'Drama']",1
+tt2784726,Drama,['Documentary'],0
+tt1065060,Thriller,"['Horror', 'Thriller']",1
+tt11799110,Action,"['Action', 'Thriller']",1
+tt1720263,Drama,"['Drama', 'Romance']",1
+tt0906326,Adventure,"['Comedy', 'Drama', 'Horror']",0
+tt1095408,Action,['Drama'],0
+tt0286162,Drama,['Drama'],1
+tt2704210,Drama,['Documentary'],0
+tt1836883,Action,"['Action', 'Crime']",1
+tt1966359,Documentary,"['Comedy', 'Drama']",0
+tt8651064,Drama,"['Action', 'Thriller']",0
+tt4120210,Drama,"['Drama', 'Fantasy']",1
+tt1472195,Drama,['Horror'],0
+tt5322004,Drama,"['Comedy', 'Drama']",1
+tt1204966,Horror,"['Drama', 'Horror', 'Thriller']",1
+tt11778118,Horror,"['Comedy', 'Horror']",1
+tt8081566,Drama,"['Comedy', 'Drama']",1
+tt0476995,Drama,"['Action', 'Comedy', 'Family']",0
+tt12275096,Drama,"['Romance', 'Thriller']",0
+tt13403046,Drama,"['Comedy', 'Horror', 'Thriller']",0
+tt1490785,Drama,"['Biography', 'Drama', 'Music']",1
+tt1713991,Drama,['Drama'],1
+tt3460252,Documentary,"['Crime', 'Drama', 'Mystery']",0
+tt12567088,Drama,"['Crime', 'Drama', 'Mystery']",1
+tt4789618,Drama,"['Crime', 'Drama', 'Thriller']",1
+tt1992258,Drama,['Thriller'],0
+tt0790736,Documentary,"['Action', 'Adventure', 'Comedy']",0
+tt0804516,Drama,"['Crime', 'Horror', 'Thriller']",0
+tt0478134,Drama,"['Crime', 'Drama', 'Mystery']",1
+tt3683440,Drama,['Horror'],0
+tt3645014,Drama,"['Mystery', 'Thriller']",0
+tt0401815,Comedy,"['Drama', 'Fantasy', 'Horror']",0
+tt1261945,Comedy,"['Comedy', 'Drama', 'Romance']",1
+tt1667061,Drama,"['Action', 'Adventure', 'Drama']",1
+tt0475240,Drama,['Comedy'],0
+tt12767100,Drama,['Horror'],0
+tt1900924,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt0219756,Drama,"['Comedy', 'Thriller']",0
+tt2702724,Comedy,['Comedy'],1
+tt1986953,Drama,"['Horror', 'Sci-Fi']",0
+tt0433116,Drama,['Comedy'],0
+tt1473397,Comedy,['Comedy'],1
+tt2837602,Action,['Horror'],0
+tt0492481,Drama,"['Comedy', 'Romance']",0
+tt1997621,Comedy,['Drama'],0
+tt10342336,Drama,"['Action', 'Comedy', 'Crime']",0
+tt0470765,Drama,['Comedy'],0
+tt1684561,Drama,"['Drama', 'Romance']",1
+tt2014346,Comedy,"['Comedy', 'Romance']",1
+tt3905860,Drama,['Comedy'],0
+tt5294550,Drama,"['Biography', 'Crime', 'Drama']",1
+tt4629636,Drama,['Drama'],1
+tt1733114,Thriller,['Comedy'],0
+tt0235280,Romance,"['Action', 'Comedy']",0
+tt2055765,Drama,"['Comedy', 'Drama']",1
+tt2948356,Drama,"['Adventure', 'Animation', 'Comedy']",0
+tt0288833,Drama,['Drama'],1
+tt1978567,Comedy,"['Adventure', 'Animation', 'Comedy']",1
+tt5727136,Horror,['Horror'],1
+tt1453405,Drama,"['Adventure', 'Animation', 'Comedy']",0
+tt9471424,Horror,"['Comedy', 'Horror']",1
+tt0292496,Drama,['Drama'],1
+tt2201221,Comedy,"['Comedy', 'Drama']",1
+tt3335606,Drama,"['Drama', 'Horror', 'Mystery']",1
+tt2788512,Thriller,"['Crime', 'Drama', 'Mystery']",0
+tt0439289,Drama,"['Comedy', 'Drama']",1
+tt5181262,Comedy,['Horror'],0
+tt1290476,Drama,"['Drama', 'Thriller']",1
+tt6117702,Drama,"['Action', 'Drama', 'Music']",1
+tt3045616,Drama,"['Action', 'Adventure', 'Comedy']",0
+tt0348333,Comedy,['Comedy'],1
+tt15094806,Horror,['Horror'],1
+tt3385270,Drama,"['Comedy', 'Drama', 'Sci-Fi']",1
+tt3252594,Comedy,"['Comedy', 'Drama']",1
+tt9118804,Horror,['Horror'],1
+tt7074886,Drama,"['Biography', 'Drama', 'History']",1
+tt1219342,Drama,"['Action', 'Adventure', 'Animation']",0
+tt2249221,Drama,"['Action', 'Crime', 'Drama']",1
+tt0490847,Action,"['Action', 'Crime', 'Drama']",1
+tt0291265,Action,"['Action', 'Thriller']",1
+tt2292625,Drama,"['Action', 'Drama', 'Thriller']",1
+tt1754708,Drama,['Drama'],1
+tt0819810,Drama,['Drama'],1
+tt5773402,Drama,"['Documentary', 'Horror']",0
+tt2831438,Drama,"['Family', 'Romance']",0
+tt0436701,Thriller,['Horror'],0
+tt0296621,Drama,"['Drama', 'Fantasy', 'Romance']",1
+tt5990444,Drama,['Comedy'],0
+tt9322884,Drama,['Drama'],1
+tt1854564,Drama,"['Adventure', 'Family', 'Fantasy']",0
+tt1468846,Comedy,['Comedy'],1
+tt1964418,Drama,"['Action', 'Adventure', 'Family']",0
+tt6288124,Biography,"['Biography', 'Comedy', 'Drama']",1
+tt10100196,Drama,['Drama'],1
+tt2112291,Horror,"['Comedy', 'Horror', 'Thriller']",1
+tt2463302,Drama,"['Drama', 'Family']",1
+tt4981966,Drama,"['Action', 'Comedy', 'Drama']",1
+tt1874789,Comedy,['Comedy'],1
+tt1320253,Action,"['Action', 'Adventure', 'Thriller']",1
+tt2457544,Drama,"['Drama', 'Family', 'Musical']",1
+tt6069336,Action,['Horror'],0
+tt6680730,Drama,"['Crime', 'Thriller']",0
+tt1673434,Drama,"['Adventure', 'Drama', 'Fantasy']",1
+tt10712928,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt0290014,Action,['Action'],1
+tt0257721,Horror,['Thriller'],0
+tt1296352,Drama,['Drama'],1
+tt10635588,Drama,['Family'],0
+tt1423894,Drama,"['Comedy', 'Drama']",1
+tt10741542,Drama,"['Action', 'Adventure', 'Drama']",1
+tt7014694,Drama,"['Comedy', 'Mystery']",0
+tt3236976,Thriller,"['Action', 'Thriller']",1
+tt0250371,Comedy,"['Adventure', 'Biography', 'Drama']",0
+tt0357470,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt2322441,Drama,"['Drama', 'Romance', 'Thriller']",1
+tt8115900,Comedy,"['Adventure', 'Animation', 'Comedy']",1
+tt4074364,Thriller,['Drama'],0
+tt0349683,Drama,"['Action', 'Adventure', 'Drama']",1
+tt0382765,Drama,"['Crime', 'Drama', 'Mystery']",1
+tt4935782,Comedy,['Horror'],0
+tt11136594,Drama,['Drama'],1
+tt3289804,Comedy,"['Crime', 'Drama', 'Mystery']",0
+tt3982212,Drama,"['Drama', 'Romance']",1
+tt0466664,Drama,"['Biography', 'Comedy', 'Sci-Fi']",0
+tt3812432,Thriller,"['Drama', 'Mystery']",0
+tt0462392,Drama,"['Comedy', 'Drama']",1
+tt5918104,Documentary,"['Drama', 'Musical']",0
+tt0276263,Comedy,[''],0
+tt0273048,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt2630096,Horror,"['Comedy', 'Drama']",0
+tt2974726,Action,"['Action', 'Adventure', 'Thriller']",1
+tt6004438,Drama,['Family'],0
+tt2937696,Drama,['Comedy'],0
+tt4949290,Action,"['Action', 'Crime', 'Thriller']",1
+tt0324619,Documentary,"['Comedy', 'Drama']",0
+tt2657538,Comedy,"['Crime', 'Drama', 'Thriller']",0
+tt1135952,Drama,"['Drama', 'War']",1
+tt7304806,Horror,['Horror'],1
+tt0838283,Comedy,['Comedy'],1
+tt1984110,Horror,"['Comedy', 'Horror']",1
+tt1385633,Drama,['Comedy'],0
+tt10831086,Drama,"['Comedy', 'Crime', 'Thriller']",0
+tt0381505,Comedy,"['Comedy', 'Drama']",1
+tt0252225,Drama,"['Comedy', 'Drama', 'Mystery']",1
+tt1677082,Drama,['Drama'],1
+tt5585662,Drama,['Horror'],0
+tt4183692,Drama,"['Biography', 'Drama', 'History']",1
+tt0383060,Comedy,"['Action', 'Adventure', 'Comedy']",1
+tt2179936,Comedy,"['Comedy', 'Drama', 'Music']",1
+tt3480446,Horror,['Horror'],1
+tt0381429,Adventure,"['Drama', 'Romance']",0
+tt15319148,Thriller,['Comedy'],0
+tt3437718,Drama,"['Drama', 'Sci-Fi']",1
+tt1092018,Drama,"['Comedy', 'Drama']",1
+tt0477302,Drama,"['Adventure', 'Drama', 'Mystery']",1
+tt2209706,Comedy,['Action'],0
+tt1886547,Horror,['Documentary'],0
+tt0363579,Drama,['Drama'],1
+tt0995035,Comedy,"['Comedy', 'Crime', 'Mystery']",1
+tt10084190,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt1821641,Drama,"['Animation', 'Drama', 'Sci-Fi']",1
+tt3550078,Drama,"['Drama', 'Fantasy', 'Sci-Fi']",1
+tt1188982,Drama,"['Action', 'Drama']",1
+tt8371236,Drama,"['Comedy', 'Drama']",1
+tt11208026,Horror,"['Action', 'Drama', 'Romance']",0
+tt4604496,Drama,"['Comedy', 'Drama', 'War']",1
+tt4877488,Drama,"['Comedy', 'Crime', 'Drama']",1
+tt1216475,Comedy,"['Adventure', 'Animation', 'Comedy']",1
+tt1954854,Drama,['Drama'],1
+tt7469828,Drama,['Thriller'],0
+tt1032817,Documentary,"['Comedy', 'Drama', 'Romance']",0
+tt0465494,Drama,"['Action', 'Crime', 'Thriller']",0
+tt0878835,Drama,"['Comedy', 'Drama']",1
+tt2749296,Horror,"['Drama', 'Romance']",0
+tt0339770,Action,"['Comedy', 'Romance']",0
+tt5705306,Drama,"['Drama', 'Music']",1
+tt10988704,Horror,['Comedy'],0
+tt3741700,Thriller,"['Action', 'Adventure', 'Fantasy']",0
+tt4202506,Drama,"['Drama', 'Romance']",1
+tt9701598,Comedy,['Comedy'],1
+tt7645102,Drama,['Horror'],0
+tt1230168,Drama,"['Biography', 'Drama']",1
+tt4396584,Drama,"['Horror', 'Thriller']",0
+tt2660888,Action,"['Action', 'Adventure', 'Sci-Fi']",1
+tt3181898,Thriller,['Horror'],0
+tt5439796,Drama,"['Action', 'Comedy', 'Crime']",0
+tt0203078,Drama,"['Drama', 'Romance']",1
+tt1496040,Drama,"['Comedy', 'Drama']",1
+tt2235876,Horror,['Horror'],1
+tt0267414,Drama,"['Action', 'Thriller']",0
+tt5843780,Drama,"['Drama', 'Thriller']",1
+tt5594608,Drama,"['Biography', 'Documentary', 'History']",0
+tt5714470,Drama,"['Adventure', 'Drama', 'Fantasy']",1
+tt1800302,Comedy,"['Crime', 'Drama']",0
+tt0361841,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt3717234,Drama,['Action'],0
+tt9601220,Drama,"['Comedy', 'Drama']",1
+tt0475290,Documentary,"['Comedy', 'Drama', 'Mystery']",0
+tt3919598,Horror,"['Horror', 'Mystery', 'Thriller']",1
+tt2414212,Drama,"['Adventure', 'Family']",0
+tt9251858,Action,"['Action', 'Comedy', 'Romance']",1
+tt13299678,Drama,['Drama'],1
+tt0835802,Comedy,"['Comedy', 'Drama']",1
+tt3007864,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt9537428,Drama,['Drama'],1
+tt4960748,Drama,"['Biography', 'Drama', 'History']",1
+tt1137470,Drama,"['Comedy', 'Romance']",0
+tt1196601,Horror,"['Comedy', 'Horror']",1
+tt1198075,Drama,"['Comedy', 'Drama']",1
+tt1552173,Comedy,"['Comedy', 'Musical']",1
+tt1971352,Drama,"['Crime', 'Drama', 'History']",1
+tt0292203,Drama,"['Comedy', 'Documentary']",0
+tt3247714,Sci-Fi,"['Action', 'Crime', 'Thriller']",0
+tt3612486,Drama,"['Crime', 'Drama', 'Thriller']",1
+tt1272886,Drama,"['Comedy', 'Crime', 'Drama']",1
+tt9261052,Drama,"['Crime', 'Thriller']",0
+tt0765429,Documentary,"['Biography', 'Crime', 'Drama']",0
+tt5788136,Drama,['Thriller'],0
+tt0433482,Drama,['Horror'],0
+tt2064980,Horror,"['Comedy', 'Horror', 'Thriller']",1
+tt9242528,Drama,"['Biography', 'Drama', 'Sport']",1
+tt3110634,Thriller,"['Drama', 'Romance']",0
+tt0364556,Drama,"['Drama', 'Romance']",1
+tt1097013,Drama,"['Action', 'Comedy', 'Crime']",0
+tt22302170,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt2069979,Drama,['Drama'],1
+tt6017756,Action,"['Biography', 'Drama', 'Romance']",0
+tt6398990,Horror,['Comedy'],0
+tt4085944,Drama,['Comedy'],0
+tt1241017,Comedy,['Comedy'],1
+tt0330203,Thriller,['Thriller'],1
+tt0283534,Drama,"['Comedy', 'Crime']",0
+tt15333788,Drama,"['Crime', 'Drama', 'Mystery']",1
+tt1829012,Drama,"['Adventure', 'Drama', 'Mystery']",1
+tt6684884,Action,"['Comedy', 'Drama', 'Romance']",0
+tt2268458,Drama,"['Drama', 'Sci-Fi', 'Thriller']",1
+tt13944728,Animation,"['Animation', 'Family']",1
+tt0234829,Comedy,"['Comedy', 'Drama', 'Romance']",1
+tt1735907,Drama,"['Crime', 'Drama', 'Thriller']",1
+tt0903624,Comedy,['Fantasy'],0
+tt1106860,Action,"['Crime', 'Thriller']",0
+tt0373389,Thriller,"['Documentary', 'History']",0
+tt2990816,Drama,"['Drama', 'Thriller']",1
+tt0350194,Comedy,"['Adventure', 'Animation', 'Comedy']",1
+tt8246646,Action,"['Action', 'Romance', 'Thriller']",1
+tt8376234,Drama,"['Adventure', 'Comedy', 'Crime']",0
+tt1988781,Action,['Horror'],0
+tt1535101,Drama,"['Comedy', 'Music']",0
+tt2141875,Drama,"['Action', 'Horror']",0
+tt2946858,Horror,['Horror'],1
+tt0421143,Comedy,"['Action', 'Crime']",0
+tt7612032,Thriller,['Horror'],0
+tt1745958,Drama,['Horror'],0
+tt1853606,Comedy,"['Comedy', 'Drama']",1
+tt0960890,Horror,"['Comedy', 'Horror', 'Sci-Fi']",1
+tt6680312,Drama,['Drama'],1
+tt1287358,Horror,['Drama'],0
+tt1091191,Drama,"['Action', 'Biography', 'Drama']",1
+tt1308728,Comedy,"['Action', 'Comedy', 'Crime']",1
+tt2349675,Drama,"['Comedy', 'Romance']",0
+tt1337521,Drama,"['Documentary', 'History']",0
+tt5651572,Comedy,"['Drama', 'Thriller']",0
+tt0870937,Thriller,"['Horror', 'Thriller']",1
+tt0252076,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt3201704,Horror,['Horror'],1
+tt0315431,Comedy,['Drama'],0
+tt1687277,Action,"['Drama', 'Mystery', 'Thriller']",0
+tt0406759,Drama,"['Horror', 'Mystery']",0
+tt0187738,Documentary,"['Action', 'Horror', 'Sci-Fi']",0
+tt1598642,Drama,"['Drama', 'Romance', 'Sci-Fi']",1
+tt0284494,Drama,"['Crime', 'Drama']",1
+tt2274172,Action,"['Crime', 'Thriller']",0
+tt1133993,Drama,"['Comedy', 'Crime', 'Romance']",0
+tt2707810,Drama,"['Drama', 'Mystery']",1
+tt1399683,Drama,"['Drama', 'Mystery']",1
+tt3586118,Drama,['Drama'],1
+tt4992086,Drama,"['Comedy', 'Romance']",0
+tt1161418,Comedy,"['Adventure', 'Comedy', 'Sci-Fi']",1
+tt0281203,Drama,"['Adventure', 'Comedy', 'Crime']",0
+tt2197881,Western,['Western'],1
+tt10931784,Drama,"['Drama', 'Horror']",1
+tt11580944,Action,"['Action', 'Drama', 'Sport']",1
+tt5114840,Comedy,"['Drama', 'Thriller', 'War']",0
+tt3635666,Drama,"['Comedy', 'Drama', 'Family']",1
+tt4762592,Drama,['Thriller'],0
+tt3699372,Drama,"['Action', 'Crime', 'Drama']",1
+tt2776878,Drama,"['Biography', 'Drama', 'War']",1
+tt1563704,Documentary,"['Drama', 'Sport']",0
+tt1528100,Drama,"['Action', 'Adventure', 'Drama']",1
+tt0952648,Thriller,[''],0
+tt5116302,Documentary,"['Adventure', 'Biography', 'Drama']",0
+tt3344694,Drama,"['Drama', 'Romance']",1
+tt0275772,Thriller,['Drama'],0
+tt0407998,Drama,"['Drama', 'Romance']",1
+tt3377240,Drama,['Family'],0
+tt9143112,Drama,['Drama'],1
+tt4859240,Drama,"['Drama', 'Family']",1
+tt0970416,Drama,"['Adventure', 'Drama', 'Sci-Fi']",1
+tt13591918,Drama,['Drama'],1
+tt4374864,Comedy,"['Crime', 'Drama', 'Thriller']",0
+tt8773094,Horror,"['Crime', 'Thriller']",0
+tt0274166,Drama,"['Action', 'Adventure', 'Comedy']",0
+tt7545266,Comedy,['Comedy'],1
+tt19872770,Action,['Horror'],0
+tt0345061,Drama,"['Drama', 'Romance', 'Sci-Fi']",1
+tt0864835,Comedy,"['Adventure', 'Animation', 'Comedy']",1
+tt0488151,Drama,['Drama'],1
+tt3300572,Thriller,"['Action', 'Adventure', 'Comedy']",0
+tt1524148,Drama,"['Comedy', 'Drama', 'Music']",1
+tt0454987,Comedy,"['Comedy', 'Crime']",1
+tt3310896,Drama,"['Action', 'Horror', 'Sci-Fi']",0
+tt2290113,Drama,"['Comedy', 'Music', 'Romance']",0
+tt1288636,Drama,['Horror'],0
+tt5842616,Comedy,['Comedy'],1
+tt14525460,Action,"['Crime', 'Thriller']",0
+tt3962164,Action,['Sci-Fi'],0
+tt1815961,Action,['Documentary'],0
+tt0473308,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt4909448,Comedy,"['Action', 'Crime', 'Drama']",0
+tt6093618,Drama,['Comedy'],0
+tt0199974,Drama,"['Crime', 'Drama', 'Thriller']",1
+tt0760180,Action,"['Drama', 'Thriller']",0
+tt16794270,Drama,"['Action', 'Drama', 'History']",1
+tt4237028,Horror,"['Comedy', 'Horror']",1
+tt11128440,Comedy,"['Comedy', 'Drama']",1
+tt4574654,Drama,['Thriller'],0
+tt0207377,Thriller,"['Action', 'Adventure', 'Thriller']",1
+tt0377818,Comedy,['Comedy'],1
+tt0892109,Drama,['Horror'],0
+tt0907681,Horror,['Horror'],1
+tt6221660,Comedy,['Action'],0
+tt0284045,Comedy,"['Crime', 'Horror']",0
+tt1928337,Drama,"['Horror', 'Mystery', 'Thriller']",0
+tt9639470,Drama,"['Drama', 'Horror', 'Mystery']",1
+tt2004271,Drama,['Drama'],1
+tt8956324,Drama,"['Drama', 'Sci-Fi', 'Thriller']",1
+tt9820550,Drama,['Action'],0
+tt1187043,Drama,"['Comedy', 'Drama']",1
+tt1416801,Action,"['Biography', 'Crime', 'Drama']",0
+tt1633356,Comedy,"['Horror', 'Thriller']",0
+tt4839118,Thriller,"['Horror', 'Sci-Fi', 'Thriller']",1
+tt5873100,Thriller,"['Drama', 'Thriller']",1
+tt2901516,Drama,"['Drama', 'Family']",1
+tt1203517,Action,"['Adventure', 'Horror', 'Thriller']",0
+tt4283892,Drama,"['Biography', 'Documentary', 'History']",0
+tt2854894,Action,"['Drama', 'Sport']",0
+tt1356392,Comedy,"['Drama', 'Mystery', 'Thriller']",0
+tt2697586,Drama,"['Drama', 'Horror', 'Thriller']",1
+tt1724965,Drama,"['Fantasy', 'Horror', 'Mystery']",0
+tt4879412,Drama,['Comedy'],0
+tt3910814,Drama,['Drama'],1
+tt1736052,Drama,"['Drama', 'Thriller']",1
+tt0368008,Documentary,"['Drama', 'Mystery', 'Sci-Fi']",0
+tt1441954,Drama,['Drama'],1
+tt1017456,Drama,"['Action', 'Crime', 'Drama']",1
+tt2841424,Thriller,['Crime'],0
+tt4698584,Drama,"['Biography', 'Crime', 'Drama']",1
+tt11616194,Drama,['Music'],0
+tt0264355,Drama,"['Comedy', 'Drama']",1
+tt0271200,Drama,"['Action', 'Crime', 'Thriller']",0
+tt1567662,Drama,['Drama'],1
+tt11725680,Comedy,"['Drama', 'Romance']",0
+tt1743994,Comedy,['Comedy'],1
+tt0883398,Drama,"['Comedy', 'Horror', 'Thriller']",0
+tt0870118,Drama,['Drama'],1
+tt3367686,Comedy,"['Action', 'Horror', 'Mystery']",0
+tt0234407,Drama,['Drama'],1
+tt1599339,Thriller,"['Drama', 'Thriller']",1
+tt4669264,Drama,"['Action', 'Crime', 'Drama']",1
+tt1376205,Drama,"['Drama', 'Family', 'Fantasy']",1
+tt0446439,Drama,"['Drama', 'Musical', 'Romance']",1
+tt0462579,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt0284978,Action,"['Mystery', 'Sci-Fi', 'Thriller']",0
+tt1584708,Horror,['Horror'],1
+tt4513674,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt0170016,Comedy,"['Comedy', 'Family', 'Fantasy']",1
+tt2393845,Drama,"['Action', 'Comedy', 'Crime']",0
+tt2111444,Thriller,['Comedy'],0
+tt0488997,Drama,"['Action', 'Crime', 'Drama']",1
+tt0402127,Action,"['Action', 'Thriller']",1
+tt0247745,Comedy,"['Comedy', 'Crime', 'Mystery']",1
+tt10799922,Horror,['Thriller'],0
+tt5479924,Thriller,['Drama'],0
+tt11944928,Action,"['Crime', 'Drama', 'Mystery']",0
+tt0408162,Drama,['Drama'],1
+tt0489249,Drama,['Drama'],1
+tt14271038,Thriller,"['Action', 'Crime', 'Drama']",0
+tt5270948,Comedy,"['Biography', 'Drama', 'History']",0
+tt10521144,Comedy,"['Family', 'Fantasy', 'Horror']",0
+tt0387460,Horror,['Horror'],1
+tt0367594,Adventure,"['Adventure', 'Comedy', 'Family']",1
+tt11873440,Drama,"['Action', 'Comedy', 'Crime']",0
+tt0288584,Drama,[''],0
+tt13563580,Horror,['Horror'],1
+tt0382255,Drama,['Drama'],1
+tt14412366,Action,"['Action', 'Crime', 'Drama']",1
+tt1311079,Drama,['Thriller'],0
+tt0279695,Action,"['Drama', 'Mystery', 'Thriller']",0
+tt0210816,Drama,['Drama'],1
+tt0393199,Action,"['Adventure', 'Drama', 'Sci-Fi']",0
+tt6027478,Action,"['Action', 'Crime', 'Thriller']",1
+tt0448075,Drama,"['Crime', 'Drama', 'Horror']",1
+tt1615160,Action,"['Action', 'Thriller']",1
+tt10101666,Drama,['Documentary'],0
+tt7690554,Drama,['Mystery'],0
+tt7126948,Comedy,"['Action', 'Adventure', 'Fantasy']",0
+tt2458620,Drama,"['Documentary', 'Drama']",1
+tt3341792,Drama,"['Comedy', 'Crime', 'Drama']",1
+tt14883936,Action,"['Drama', 'Mystery', 'Sci-Fi']",0
+tt0783238,Comedy,"['Crime', 'Drama', 'Mystery']",0
+tt4392770,Drama,"['Drama', 'Horror', 'Mystery']",1
+tt5719700,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt0299859,Comedy,['Comedy'],1
+tt20198774,Comedy,"['Horror', 'Thriller']",0
+tt6905402,Drama,"['Drama', 'Romance']",1
+tt1446147,Drama,"['Action', 'Comedy']",0
+tt2016940,Drama,"['Action', 'Drama']",1
+tt0475271,Drama,"['Drama', 'Fantasy', 'Romance']",1
+tt0796339,Mystery,['Drama'],0
+tt7587206,Horror,['Horror'],1
+tt5157616,Comedy,['Horror'],0
+tt0450995,Thriller,"['Crime', 'Drama']",0
+tt2275471,Documentary,"['Drama', 'Romance']",0
+tt1693106,Drama,['Comedy'],0
+tt8946942,Comedy,"['Biography', 'Comedy', 'Drama']",1
+tt6177452,Comedy,"['Comedy', 'Drama', 'Horror']",1
+tt5113086,Comedy,['Horror'],0
+tt0384638,Documentary,"['Documentary', 'History']",1
+tt0795459,Drama,"['Documentary', 'Drama']",1
+tt21094994,Drama,"['Action', 'Comedy']",0
+tt1653665,Drama,"['Biography', 'Drama', 'Family']",1
+tt0775440,Documentary,"['Action', 'Adventure', 'Horror']",0
+tt0427152,Comedy,['Comedy'],1
+tt11651668,Drama,['Comedy'],0
+tt0243655,Comedy,"['Comedy', 'Romance']",1
+tt8830290,Comedy,"['Comedy', 'Horror', 'Sci-Fi']",1
+tt6667268,Comedy,['Comedy'],1
+tt0471009,Drama,['Drama'],1
+tt3598222,Drama,"['Action', 'Adventure']",0
+tt6238896,Action,"['Documentary', 'Family']",0
+tt6902696,Drama,"['Comedy', 'Drama', 'Music']",1
+tt0455967,Drama,"['Comedy', 'Romance']",0
+tt3233972,Horror,"['Fantasy', 'Horror', 'Sci-Fi']",1
+tt4995790,Drama,"['Comedy', 'Drama']",1
+tt5605076,Comedy,"['Comedy', 'Drama', 'Romance']",1
+tt0395699,Comedy,"['Action', 'Comedy', 'Drama']",1
+tt10687070,Comedy,"['Comedy', 'Drama']",1
+tt0315600,Drama,['Drama'],1
+tt5580036,Drama,"['Biography', 'Comedy', 'Drama']",1
+tt0902313,Comedy,"['Action', 'Family']",0
+tt1650554,Comedy,"['Action', 'Comedy', 'Crime']",1
+tt0490236,Thriller,"['Horror', 'Thriller']",1
+tt0337942,Thriller,"['Comedy', 'Drama']",0
+tt1297456,Horror,"['Action', 'Comedy', 'Horror']",1
+tt3065204,Mystery,"['Horror', 'Mystery', 'Thriller']",1
+tt8093952,Drama,"['Drama', 'Romance']",1
+tt1244663,Drama,['Thriller'],0
+tt0323033,Drama,"['Comedy', 'Romance']",0
+tt1977754,Comedy,"['Comedy', 'Drama', 'Mystery']",1
+tt16527290,Action,"['Action', 'Thriller']",1
+tt0457475,Comedy,"['Action', 'Crime']",0
+tt1670994,Drama,"['Comedy', 'Drama']",1
+tt0319767,Drama,['Comedy'],0
+tt6522546,Action,"['Action', 'Crime', 'Thriller']",1
+tt3501590,Thriller,"['Drama', 'War']",0
+tt2551330,Action,['Action'],1
+tt13237416,Horror,['Horror'],1
+tt3276924,Crime,"['Action', 'Crime', 'Drama']",1
+tt0385887,Documentary,"['Crime', 'Drama', 'Mystery']",0
+tt0234570,Drama,"['Comedy', 'Drama', 'Family']",1
+tt5871320,Drama,['Thriller'],0
+tt0284187,Comedy,['Comedy'],1
+tt14150116,Action,['Comedy'],0
+tt3008034,Drama,"['Comedy', 'Drama']",1
+tt0433441,Action,['Sci-Fi'],0
+tt4062896,Drama,"['Drama', 'Family', 'Sport']",1
+tt8202612,Action,"['Action', 'Crime', 'Drama']",1
+tt0363276,Documentary,"['Horror', 'Thriller']",0
+tt4278962,Horror,['Horror'],1
+tt7496808,Comedy,['Documentary'],0
+tt0284907,Drama,"['Action', 'Horror', 'Mystery']",0
+tt1667417,Drama,"['Crime', 'Thriller']",0
+tt2361551,Horror,"['Action', 'Comedy', 'Horror']",1
+tt1937154,Horror,['Horror'],1
+tt0120679,Drama,"['Biography', 'Drama', 'Romance']",1
+tt1407084,Drama,"['Action', 'Drama', 'Thriller']",1
+tt9231040,Drama,"['Drama', 'Western']",1
+tt6921302,Drama,['Comedy'],0
+tt0441039,Drama,['Drama'],1
+tt1734493,Adventure,"['Action', 'Thriller']",0
+tt13161624,Animation,"['Animation', 'Comedy']",1
+tt12981810,Animation,"['Animation', 'Family', 'Fantasy']",1
+tt0172464,Comedy,"['Action', 'Adventure', 'Comedy']",1
+tt4965146,Drama,"['Horror', 'Mystery', 'Sci-Fi']",0
+tt1675192,Drama,"['Drama', 'Horror', 'Sci-Fi']",1
+tt0405052,Drama,['Comedy'],0
+tt0415965,Action,"['Comedy', 'Drama', 'Family']",0
+tt8332454,Drama,"['Action', 'Drama', 'Thriller']",1
+tt0409345,Drama,"['Crime', 'Drama', 'Mystery']",1
+tt0120824,Drama,['Drama'],1
+tt6058448,Drama,['Drama'],1
+tt8404614,Drama,"['Biography', 'Comedy', 'Drama']",1
+tt5325604,Horror,"['Horror', 'Mystery']",1
+tt1684925,Drama,"['Drama', 'Mystery', 'Thriller']",1
+tt12078076,Comedy,"['Action', 'Fantasy']",0
+tt1052040,Drama,"['Horror', 'Thriller']",0
+tt3025636,Drama,['Drama'],1
+tt2133221,Drama,"['Biography', 'Crime', 'Documentary']",0
+tt10880158,Drama,['Comedy'],0
+tt5663962,Drama,"['Horror', 'Sci-Fi']",0
+tt1615147,Documentary,"['Drama', 'Thriller']",0
+tt8830032,Drama,['Drama'],1
+tt5822564,Action,"['Action', 'Crime', 'Drama']",1
+tt5118964,Thriller,['Documentary'],0
+tt0485947,Drama,"['Drama', 'Fantasy', 'Romance']",1
+tt21477618,Drama,"['Action', 'Adventure', 'Animation']",0
+tt5095030,Comedy,"['Action', 'Adventure', 'Comedy']",1
+tt1744885,Comedy,['Drama'],0
+tt1319699,Thriller,"['Action', 'Adventure', 'Thriller']",1
+tt4411234,Drama,"['Comedy', 'Crime', 'Fantasy']",0
+tt10691070,Animation,"['Animation', 'Musical']",1
+tt5634336,Drama,['Horror'],0
+tt2098627,Drama,"['Comedy', 'Sci-Fi']",0
+tt4975920,Action,"['Biography', 'Drama', 'Western']",0
+tt1470859,Thriller,['Drama'],0
+tt11656172,Action,"['Action', 'Thriller']",1
+tt14661276,Drama,['Romance'],0
+tt5859352,Drama,"['Drama', 'Horror', 'Mystery']",1
+tt0295004,Drama,['Drama'],1
+tt0926156,Drama,"['Animation', 'Drama']",1
+tt1414382,Comedy,"['Comedy', 'Romance']",1
+tt1376195,Thriller,"['Action', 'Comedy', 'Drama']",0
+tt1403862,Documentary,"['Action', 'Adventure', 'Fantasy']",0
+tt0199129,Thriller,['Drama'],0
+tt0800080,Drama,"['Action', 'Adventure', 'Sci-Fi']",0
+tt0435687,Drama,"['Comedy', 'Fantasy', 'Horror']",0
+tt10062338,Drama,"['Drama', 'Fantasy', 'Horror']",1
+tt0362174,Drama,"['Drama', 'Family']",1
+tt2667960,Drama,"['Drama', 'Romance']",1
+tt0367189,Drama,"['Documentary', 'History', 'War']",0
+tt1032746,Drama,"['Action', 'Adventure', 'Comedy']",0
+tt2936390,Thriller,"['Action', 'Sci-Fi']",0
+tt0490199,Action,"['Comedy', 'Drama']",0
+tt11252460,Drama,['Comedy'],0
+tt2273401,Drama,"['Crime', 'Drama', 'Thriller']",1
+tt6270640,Horror,"['Horror', 'Mystery', 'Thriller']",1
+tt8169446,Comedy,"['Adventure', 'Comedy', 'Drama']",1
+tt0253798,Drama,"['Comedy', 'Sport']",0
+tt3541124,Horror,['Horror'],1
+tt1390404,Drama,['Comedy'],0
+tt4712086,Comedy,"['Comedy', 'Drama']",1
+tt1977755,Action,['Drama'],0
+tt4653586,Drama,"['Drama', 'Thriller']",1
+tt1270296,Drama,"['Crime', 'Mystery', 'Thriller']",0
+tt1674771,Comedy,"['Comedy', 'Drama']",1
+tt13075730,Crime,"['Action', 'Thriller']",0
+tt2551396,Comedy,"['Fantasy', 'Horror', 'Mystery']",0
+tt1232200,Documentary,['Comedy'],0
+tt4902904,Drama,"['Comedy', 'Drama', 'Family']",1
+tt3565066,Comedy,['Drama'],0
+tt4517738,Thriller,['Horror'],0
+tt3829920,Documentary,"['Action', 'Biography', 'Drama']",0
+tt4948040,Comedy,"['Drama', 'Family', 'Sport']",0
+tt2106550,Drama,"['Drama', 'Thriller']",1
+tt3106316,Drama,"['Drama', 'Thriller']",1
+tt4586626,Action,['Action'],1
+tt2638144,Drama,"['Action', 'Drama', 'Romance']",1
+tt5146612,Drama,"['Action', 'Crime', 'Drama']",1
+tt7390564,Documentary,['Documentary'],1
+tt1228705,Documentary,"['Action', 'Sci-Fi']",0
+tt9118870,Comedy,['Drama'],0
+tt0278500,Comedy,"['Comedy', 'Drama', 'Romance']",1
+tt5091014,Drama,"['Drama', 'Mystery', 'Thriller']",1
+tt1330229,Drama,"['Drama', 'Romance']",1
+tt1242605,Horror,"['Comedy', 'Horror']",1
+tt0492060,Comedy,"['Biography', 'Documentary']",0
+tt0265864,Drama,"['Comedy', 'Drama', 'Music']",1
+tt6992978,Documentary,"['Drama', 'Romance']",0
+tt6285672,Drama,"['Comedy', 'Drama']",1
+tt1206885,Drama,"['Action', 'Crime', 'Thriller']",0
+tt13799302,Drama,['Drama'],1
+tt0122247,Drama,"['Comedy', 'Horror', 'Mystery']",0
+tt0384234,Drama,"['Crime', 'Horror', 'Mystery']",0
+tt1545304,Comedy,"['Comedy', 'Romance']",1
+tt9598214,Drama,"['Comedy', 'Crime', 'Drama']",1
+tt0337823,Drama,['Comedy'],0
+tt0468548,Drama,"['Drama', 'War']",1
+tt1899324,Drama,"['Drama', 'Thriller']",1
+tt2488366,Horror,"['Drama', 'Horror', 'Mystery']",1
+tt0314630,Documentary,['Drama'],0
+tt5878194,Drama,['Drama'],1
+tt0499375,Drama,['Drama'],1
+tt1727506,Thriller,['Comedy'],0
+tt7939766,Drama,"['Drama', 'Thriller']",1
+tt0431213,Drama,"['Adventure', 'Comedy', 'Drama']",1
+tt1720616,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt0249511,Action,"['Action', 'Thriller']",1
+tt12724306,Drama,"['Horror', 'Thriller']",0
+tt0862884,Drama,"['Drama', 'Mystery', 'Romance']",1
+tt0878717,Horror,['Horror'],1
+tt15710168,Comedy,['Crime'],0
+tt8385474,Drama,"['Adventure', 'Comedy', 'Drama']",1
+tt0408345,Documentary,"['Action', 'Crime', 'Thriller']",0
+tt3026488,Drama,"['Drama', 'History', 'War']",1
+tt1788391,Horror,"['Action', 'Crime', 'Horror']",1
+tt0339002,Comedy,"['Comedy', 'Drama', 'Romance']",1
+tt1935277,Drama,"['Action', 'Thriller']",0
+tt17155092,Thriller,['Comedy'],0
+tt0479341,Documentary,"['Drama', 'War']",0
+tt0756683,Horror,"['Drama', 'Fantasy', 'Mystery']",0
+tt0375061,Drama,['Comedy'],0
+tt10920190,Drama,"['Crime', 'Thriller']",0
+tt1949548,Drama,['Drama'],1
+tt1480285,Drama,"['Horror', 'Mystery', 'Thriller']",0
+tt4381382,Horror,['Horror'],1
+tt3111320,Horror,['Horror'],1
+tt0240900,Comedy,"['Comedy', 'Romance']",1
+tt1984204,Drama,"['Action', 'Crime', 'Drama']",1
+tt13152186,Drama,"['Action', 'Thriller']",0
+tt1229340,Comedy,['Comedy'],1
+tt4628812,Drama,"['Drama', 'Music', 'Romance']",1
+tt1954809,Horror,"['Comedy', 'Crime']",0
+tt6842770,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt0477003,Drama,"['Comedy', 'Crime']",0
+tt4695012,Drama,"['Drama', 'Horror', 'Mystery']",1
+tt2082152,Drama,['Horror'],0
+tt4245244,Drama,['Action'],0
+tt2392810,Drama,"['Biography', 'Comedy', 'Drama']",1
+tt3691478,Action,['Drama'],0
+tt1502712,Drama,"['Action', 'Adventure', 'Sci-Fi']",0
+tt1753786,Action,"['Action', 'Adventure', 'Drama']",1
+tt11869546,Drama,"['Drama', 'Family']",1
+tt0483796,Drama,"['Comedy', 'Drama']",1
+tt8108164,Comedy,"['Comedy', 'Crime', 'Drama']",1
+tt21958986,Animation,"['Adventure', 'Animation', 'Comedy']",1
+tt8019694,Drama,"['Drama', 'Romance']",1
+tt7624934,Drama,"['Comedy', 'Drama', 'Horror']",1
+tt11392272,Drama,"['Horror', 'Thriller']",0
+tt12764628,Horror,['Horror'],1
+tt0462499,Action,"['Action', 'Adventure', 'Thriller']",1
+tt4103470,Comedy,"['Drama', 'Romance']",0
+tt2883434,Drama,['Drama'],1
+tt1662534,Horror,"['Action', 'Drama', 'Sci-Fi']",0
+tt6357074,Drama,['Family'],0
+tt1295072,Drama,"['Comedy', 'Drama']",1
+tt2066051,Drama,"['Biography', 'Drama', 'Musical']",1
+tt0161216,Comedy,"['Biography', 'Drama', 'Romance']",0
+tt5813776,Drama,['Thriller'],0
+tt1283542,Drama,['Comedy'],0
+tt1338544,Drama,['Comedy'],0
+tt1226271,Drama,"['Biography', 'Drama', 'Sport']",1
+tt2870708,Drama,"['Comedy', 'Drama']",1
+tt0306597,Drama,['Drama'],1
+tt0404390,Drama,"['Action', 'Crime', 'Drama']",1
+tt0239395,Comedy,"['Action', 'Adventure', 'Comedy']",1
+tt1080016,Comedy,"['Adventure', 'Animation', 'Comedy']",1
+tt7304212,Horror,"['Comedy', 'Romance']",0
+tt2559658,Drama,['Documentary'],0
+tt5130230,Horror,['Horror'],1
+tt1965115,Thriller,"['Comedy', 'Drama', 'Romance']",0
+tt11242218,Drama,"['Drama', 'Horror', 'Mystery']",1
+tt14324650,Drama,"['Action', 'Animation', 'Crime']",0
+tt5022714,Drama,"['Crime', 'Thriller']",0
+tt4481514,Comedy,"['Comedy', 'Crime']",1
+tt0290086,Drama,"['Comedy', 'Thriller']",0
+tt9239472,Action,"['Action', 'Comedy', 'Drama']",1
+tt1469304,Action,"['Action', 'Comedy', 'Crime']",1
+tt1869385,Drama,['Drama'],1
+tt0322781,Drama,['Comedy'],0
+tt4786282,Drama,"['Horror', 'Mystery']",0
+tt2091935,Comedy,"['Action', 'Comedy', 'Romance']",1
+tt0360323,Adventure,"['Crime', 'Drama', 'Thriller']",0
+tt1935940,Comedy,"['Comedy', 'Family']",1
+tt1910608,Drama,['Thriller'],0
+tt3687310,Drama,"['Crime', 'Drama', 'Thriller']",1
+tt12344428,Action,['Thriller'],0
+tt1572763,Horror,"['Comedy', 'Drama', 'Horror']",1
+tt2402603,Drama,"['Crime', 'Drama', 'Thriller']",1
+tt4820546,Horror,"['Action', 'Adventure', 'Drama']",0
+tt8635076,Drama,['Comedy'],0
+tt3407428,Drama,['Drama'],1
+tt0468521,Drama,"['Comedy', 'Drama']",1
+tt5206170,Documentary,['Drama'],0
+tt1013752,Action,"['Action', 'Crime', 'Thriller']",1
+tt3812348,Thriller,['Comedy'],0
+tt2954474,Comedy,"['Horror', 'Mystery']",0
+tt1174730,Drama,"['Comedy', 'Drama']",1
+tt5988216,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt2315596,Drama,"['Action', 'Crime', 'Drama']",1
+tt5303442,Thriller,['Action'],0
+tt12275248,Drama,['Drama'],1
+tt0301255,Drama,[''],0
+tt0263671,Drama,"['Crime', 'Drama', 'Romance']",1
+tt0265625,Thriller,"['Comedy', 'Drama']",0
+tt0432180,Drama,['Documentary'],0
+tt0319061,Drama,"['Adventure', 'Drama', 'Fantasy']",1
+tt1726592,Drama,"['Drama', 'Mystery', 'Thriller']",1
+tt6258256,Drama,['Action'],0
+tt3450200,Comedy,['Comedy'],1
+tt3630782,Drama,['Horror'],0
+tt5087914,Thriller,"['Horror', 'Sci-Fi']",0
+tt16513514,Drama,['Western'],0
+tt8620078,Horror,"['Crime', 'Music', 'Thriller']",0
+tt2262023,Action,['Comedy'],0
+tt1523979,Drama,['Drama'],1
+tt1226681,Drama,"['Horror', 'Sci-Fi']",0
+tt3393372,Horror,['Horror'],1
+tt0365907,Documentary,"['Action', 'Crime', 'Drama']",0
+tt5083738,Drama,"['Biography', 'Comedy', 'Drama']",1
+tt1290419,Drama,['Drama'],1
+tt7995680,Drama,"['Horror', 'Thriller']",0
+tt2452150,Drama,"['Biography', 'Drama', 'Music']",1
+tt12989912,Drama,"['Drama', 'Mystery', 'Sci-Fi']",1
+tt5848714,Comedy,"['Crime', 'Drama', 'Thriller']",0
+tt4446472,Drama,"['Drama', 'Romance']",1
+tt2106651,Drama,"['Action', 'Adventure', 'Sci-Fi']",0
+tt6452574,Drama,"['Biography', 'Comedy', 'Drama']",1
+tt1057500,Documentary,"['Action', 'Biography', 'Drama']",0
+tt0319397,Drama,['Drama'],1
+tt4142262,Drama,"['Documentary', 'News']",0
+tt4886942,Horror,"['Drama', 'Fantasy', 'Horror']",1
+tt1618442,Action,"['Action', 'Adventure', 'Fantasy']",1
+tt11024528,Drama,"['Comedy', 'Drama', 'Musical']",1
+tt0433416,Drama,['Drama'],1
+tt12699576,Drama,['Horror'],0
+tt4076980,Crime,"['Action', 'Comedy', 'Thriller']",0
+tt12860922,Drama,['Documentary'],0
+tt1484524,Thriller,['Comedy'],0
+tt1861445,Drama,"['Crime', 'Drama', 'Thriller']",1
+tt0422295,Biography,"['Biography', 'Drama', 'Romance']",1
+tt1661199,Drama,"['Adventure', 'Drama', 'Family']",1
+tt0824772,Horror,"['Horror', 'Sci-Fi']",1
+tt1018818,Action,"['Comedy', 'Crime', 'Mystery']",0
+tt6241768,Comedy,"['Horror', 'Mystery']",0
+tt4154796,Action,"['Action', 'Adventure', 'Drama']",1
+tt6639482,Thriller,"['Drama', 'History', 'Sport']",0
+tt5716848,Comedy,['Comedy'],1
+tt5969180,Drama,"['Adventure', 'Comedy']",0
+tt8425332,Animation,['Animation'],1
+tt3250032,Drama,"['Comedy', 'Drama']",1
+tt3707284,Horror,"['Horror', 'Thriller']",1
+tt3411444,Drama,"['Adventure', 'Animation', 'Comedy']",0
+tt0184894,Comedy,"['Action', 'Adventure', 'Comedy']",1
+tt6644636,Drama,"['Action', 'Thriller']",0
+tt2574326,Horror,['Horror'],1
+tt5165344,Comedy,"['Crime', 'Drama', 'Thriller']",0
+tt3570538,Drama,['Fantasy'],0
+tt2091256,Comedy,"['Action', 'Adventure', 'Animation']",0
+tt0387877,Drama,"['Crime', 'Drama', 'Mystery']",1
+tt0207201,Drama,"['Comedy', 'Fantasy', 'Romance']",0
+tt0429591,Comedy,"['Comedy', 'Family', 'Fantasy']",1
+tt3774114,Documentary,"['Biography', 'Crime', 'Drama']",0
+tt1980929,Drama,"['Comedy', 'Drama', 'Music']",1
+tt5460530,Thriller,"['Action', 'Thriller']",1
+tt8185094,Drama,['Drama'],1
+tt1619277,Drama,"['Comedy', 'Romance']",0
+tt2051872,Horror,"['Action', 'Sci-Fi']",0
+tt1885299,Drama,"['Comedy', 'Drama']",1
+tt1979317,Comedy,['Comedy'],1
+tt4158876,Drama,"['Comedy', 'Drama']",1
+tt2403827,Drama,"['Crime', 'Drama']",1
+tt1658837,Horror,"['Crime', 'Drama', 'Horror']",1
+tt0455829,Action,"['Action', 'Crime', 'Thriller']",1
+tt0443564,Comedy,['Drama'],0
+tt1931533,Comedy,"['Comedy', 'Crime']",1
+tt2328856,Drama,['Comedy'],0
+tt3481236,Drama,"['Crime', 'Thriller']",0
+tt0307987,Drama,"['Comedy', 'Crime', 'Drama']",1
+tt3864056,Biography,['Drama'],0
+tt0435678,Horror,['Horror'],1
+tt0271984,Family,"['Horror', 'Thriller']",0
+tt1690953,Comedy,"['Adventure', 'Animation', 'Comedy']",1
+tt0796368,Drama,"['Biography', 'Drama', 'History']",1
+tt4116284,Documentary,"['Action', 'Adventure', 'Animation']",0
+tt4026562,Documentary,['Horror'],0
+tt1305591,Comedy,"['Action', 'Adventure', 'Animation']",0
+tt7082742,Action,['Thriller'],0
+tt13209832,Drama,['Sci-Fi'],0
+tt6421398,Action,"['Action', 'Comedy', 'Horror']",1
+tt0935075,Biography,['Drama'],0
+tt5355180,Documentary,"['Documentary', 'Sport']",1
+tt11495806,Drama,['Drama'],1
+tt3229244,Drama,['Horror'],0
+tt0247133,Comedy,"['Adventure', 'Fantasy', 'Western']",0
+tt6170432,Drama,['Family'],0
+tt2669078,Comedy,['Drama'],0
+tt1605798,Drama,"['Biography', 'Drama', 'Romance']",1
+tt10358566,Thriller,['Drama'],0
+tt4211840,Comedy,['Horror'],0
+tt0460760,Drama,"['Comedy', 'Horror', 'Mystery']",0
+tt7854174,Drama,['Drama'],1
+tt1260365,Drama,"['Drama', 'Thriller']",1
+tt5851696,Thriller,['Drama'],0
+tt0983909,Drama,"['Comedy', 'Drama']",1
+tt0385988,Action,"['Action', 'Adventure', 'Family']",1
+tt0257818,Action,['Drama'],0
+tt14375488,Drama,['Comedy'],0
+tt0249478,Drama,"['Crime', 'Thriller']",0
+tt2033952,Drama,['Drama'],1
+tt14623168,Horror,['Sci-Fi'],0
+tt1024715,Drama,"['Comedy', 'Drama']",1
+tt0287425,Drama,"['Crime', 'Drama', 'Romance']",1
+tt0904113,Drama,['Drama'],1
+tt2279373,Comedy,"['Adventure', 'Animation', 'Comedy']",1
+tt8824538,Horror,['Thriller'],0
+tt1138489,Drama,"['Drama', 'Romance']",1
+tt1067062,Horror,"['Drama', 'Horror']",1
+tt3849370,Action,['Drama'],0
+tt4308652,Drama,['Drama'],1
+tt9115528,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt8954732,Drama,"['Comedy', 'Drama', 'Family']",1
+tt2201261,Drama,"['Drama', 'Music', 'Romance']",1
+tt9006968,Horror,"['Horror', 'Mystery', 'Thriller']",1
+tt8571594,Horror,['Horror'],1
+tt6550978,Mystery,['Thriller'],0
+tt10600398,Drama,"['Action', 'Comedy', 'Drama']",1
+tt2525802,Thriller,"['Comedy', 'Romance']",0
+tt0293069,Drama,['Thriller'],0
+tt5498056,Thriller,['Drama'],0
+tt3343136,Drama,"['Adventure', 'Fantasy', 'Horror']",0
+tt0804497,Comedy,"['Comedy', 'Drama', 'Romance']",1
+tt0364955,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt2622672,Horror,"['Horror', 'Mystery', 'Thriller']",1
+tt1486192,Drama,"['Crime', 'Mystery', 'Thriller']",0
+tt1079372,Drama,"['Action', 'Adventure', 'Fantasy']",0
+tt0289944,Comedy,['Thriller'],0
+tt12222270,Drama,[''],0
+tt1641388,Horror,['Thriller'],0
+tt2271671,Drama,['Thriller'],0
+tt6265532,Thriller,['Comedy'],0
+tt1053835,Drama,['Drama'],1
+tt14309446,Comedy,['Comedy'],1
+tt13132558,Action,['Horror'],0
+tt10833732,Drama,"['Comedy', 'Drama']",1
+tt0902281,Drama,"['Drama', 'Mystery', 'Thriller']",1
+tt0192630,Animation,['Comedy'],0
+tt4782322,Horror,"['Action', 'Sci-Fi', 'Thriller']",0
+tt4294970,Drama,['Family'],0
+tt4729426,Drama,"['Drama', 'Family']",1
+tt0339419,Drama,"['Crime', 'Drama', 'Romance']",1
+tt1715223,Comedy,"['Horror', 'Thriller']",0
+tt6199572,Drama,"['Biography', 'Crime', 'Drama']",1
+tt8498198,Animation,"['Adventure', 'Animation', 'Comedy']",1
+tt1901004,Thriller,['Comedy'],0
+tt2620736,Horror,"['Drama', 'Horror', 'Thriller']",1
+tt0873886,Drama,"['Action', 'Crime', 'Horror']",0
+tt15262632,Horror,['Thriller'],0
+tt15787858,Drama,['Comedy'],0
+tt13795296,Action,"['Comedy', 'Fantasy']",0
+tt7860140,Comedy,['Action'],0
+tt9809006,Comedy,"['Comedy', 'Family']",1
+tt7620746,Drama,['Thriller'],0
+tt10553210,Horror,"['Horror', 'Thriller']",1
+tt5358902,Documentary,['Horror'],0
+tt5277850,Comedy,"['Crime', 'Thriller']",0
+tt1525890,Thriller,"['Horror', 'Thriller']",1
+tt6137494,Comedy,['Thriller'],0
+tt0263728,Thriller,"['Action', 'Adventure', 'Fantasy']",0
+tt2247476,Documentary,"['Biography', 'Drama', 'Family']",0
+tt15367558,Comedy,['Comedy'],1
+tt1874779,Horror,"['Horror', 'Thriller']",1
+tt7248248,Drama,"['Action', 'Comedy', 'Crime']",0
+tt2359381,Drama,"['Comedy', 'Drama']",1
+tt0293899,Drama,['Drama'],1
+tt1230211,Horror,"['Horror', 'Thriller']",1
+tt15501758,Comedy,"['Fantasy', 'Mystery', 'Sci-Fi']",0
+tt0320242,Drama,"['Action', 'Crime', 'Drama']",1
+tt0471930,Drama,"['Comedy', 'Drama']",1
+tt1131740,Comedy,"['Comedy', 'Drama']",1
+tt2170439,Comedy,"['Comedy', 'Crime']",1
+tt3095734,Drama,"['Action', 'Adventure', 'Comedy']",0
+tt0305999,Comedy,['Comedy'],1
+tt6750962,Comedy,['Romance'],0
+tt1730687,Comedy,"['Comedy', 'Drama', 'Romance']",1
+tt2389344,Drama,['Drama'],1
+tt2039380,Action,"['Adventure', 'Sci-Fi']",0
+tt3352034,Drama,['Drama'],1
+tt7975192,Thriller,"['Mystery', 'Thriller']",1
+tt8571404,Horror,['Sci-Fi'],0
+tt2145821,Drama,['Fantasy'],0
+tt7275528,Animation,['Animation'],1
+tt2184095,Comedy,"['Comedy', 'Family']",1
+tt1291582,Horror,['Horror'],1
+tt0365183,Drama,['Drama'],1
+tt13206926,Drama,"['Crime', 'Drama']",1
+tt3359290,Drama,"['Comedy', 'Drama', 'Thriller']",1
+tt3322896,Drama,['Drama'],1
+tt2273722,Comedy,['Thriller'],0
+tt2862538,Horror,"['Biography', 'Documentary', 'History']",0
+tt3102798,Horror,"['Drama', 'Thriller']",0
+tt5591666,Drama,"['Action', 'Horror', 'Sci-Fi']",0
+tt2094195,Comedy,"['Crime', 'Drama', 'Mystery']",0
+tt0219878,Horror,[''],0
+tt6394270,Biography,"['Biography', 'Drama']",1
+tt0243232,Drama,"['Drama', 'Romance', 'Western']",1
+tt4669788,Drama,"['Biography', 'Drama']",1
+tt9664732,Action,"['Action', 'Crime', 'Drama']",1
+tt3257550,Comedy,"['Comedy', 'Drama']",1
+tt0204137,Documentary,"['Crime', 'Drama']",0
+tt13216846,Horror,"['Mystery', 'Western']",0
+tt10095308,Drama,"['Comedy', 'Drama']",1
+tt1395054,Action,"['Action', 'Crime', 'Drama']",1
+tt0473435,Drama,"['Action', 'Animation', 'Drama']",1
+tt2736728,Drama,"['Drama', 'Horror', 'Thriller']",1
+tt0350774,Drama,"['Comedy', 'Fantasy', 'Horror']",0
+tt5805752,Comedy,"['Comedy', 'Drama']",1
+tt4040932,Thriller,"['Horror', 'Thriller']",1
+tt4428630,Comedy,['Drama'],0
+tt1753975,Horror,"['Adventure', 'Fantasy', 'Horror']",1
+tt4441150,Drama,['Thriller'],0
+tt2736858,Horror,['Thriller'],0
+tt4312310,Horror,['Horror'],1
+tt1226240,Drama,"['Drama', 'Music']",1
+tt8622232,Drama,"['Musical', 'Romance']",0
+tt0272196,Drama,"['Comedy', 'Romance']",0
+tt0212830,Drama,"['Horror', 'Mystery']",0
+tt4503598,Drama,"['Horror', 'Mystery', 'Thriller']",0
+tt0454848,Drama,"['Crime', 'Drama', 'Mystery']",1
+tt6174150,Thriller,['Horror'],0
+tt4671326,Drama,['Drama'],1
+tt0209958,Drama,"['Crime', 'Horror', 'Sci-Fi']",0
+tt0463963,Thriller,['Comedy'],0
+tt7158430,Drama,"['Comedy', 'Drama', 'Music']",1
+tt7081236,Horror,['Drama'],0
+tt3289956,Drama,"['Horror', 'Mystery', 'Thriller']",0
+tt10229550,Horror,['Horror'],1
+tt7734218,Drama,"['Action', 'Comedy', 'Crime']",0
+tt7268736,Thriller,"['Adventure', 'Comedy', 'Drama']",0
+tt11773378,Action,"['Action', 'Drama']",1
+tt0172156,Action,"['Action', 'Comedy', 'Crime']",1
+tt0238380,Drama,"['Action', 'Drama', 'Sci-Fi']",1
+tt1686902,Drama,['Horror'],0
+tt1434447,Drama,"['Comedy', 'Drama']",1
+tt0357009,Action,"['Action', 'Comedy', 'Drama']",1
+tt2536006,Drama,"['Action', 'Drama']",1
+tt0425236,Drama,"['Drama', 'Thriller']",1
+tt14900738,Comedy,"['Comedy', 'Drama', 'Fantasy']",1
+tt6349302,Action,"['Action', 'Drama', 'Thriller']",1
+tt2205212,Drama,"['Action', 'Adventure', 'Comedy']",0
+tt3317696,Action,"['Biography', 'Documentary', 'Drama']",0
+tt1632705,Drama,['Horror'],0
+tt14617254,Crime,['Horror'],0
+tt3285740,Comedy,['Comedy'],1
+tt0324952,Drama,"['Crime', 'Thriller']",0
+tt0285006,Drama,"['Drama', 'Romance', 'Sport']",1
+tt0489237,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt0245046,Drama,"['Drama', 'Romance', 'Thriller']",1
+tt0884726,Drama,"['Adventure', 'Animation', 'Family']",0
+tt1438176,Drama,"['Comedy', 'Horror']",0
+tt1575694,Drama,"['Action', 'Thriller']",0
+tt4758646,Drama,"['Comedy', 'Drama', 'War']",1
+tt1414378,Drama,"['Action', 'Adventure', 'Drama']",1
+tt2725962,Drama,"['Comedy', 'Drama']",1
+tt8947544,Drama,['Comedy'],0
+tt22811298,Drama,['Sci-Fi'],0
+tt0233142,Documentary,"['Action', 'Comedy', 'Crime']",0
+tt1028576,Drama,"['Biography', 'Drama', 'Family']",1
+tt2139829,Action,"['Crime', 'Thriller']",0
+tt0462308,Drama,['Horror'],0
+tt8101954,Comedy,"['Biography', 'Documentary']",0
+tt1792799,Drama,['Horror'],0
+tt13298656,Action,"['Action', 'Sci-Fi']",1
+tt0398842,Drama,"['Adventure', 'Drama']",1
+tt0808526,Drama,"['Comedy', 'Drama']",1
+tt0988045,Drama,"['Action', 'Adventure', 'Mystery']",0
+tt13261398,Action,['Comedy'],0
+tt0264323,Horror,"['Comedy', 'Horror']",1
+tt5051150,Drama,['Drama'],1
+tt2040560,Drama,"['Horror', 'Mystery', 'Thriller']",0
+tt0924129,Documentary,"['Crime', 'Drama']",0
+tt2503954,Crime,"['Action', 'Crime', 'Drama']",1
+tt0243931,Comedy,"['Comedy', 'Romance']",1
+tt1555835,Drama,['Drama'],1
+tt8304386,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt5327922,Action,"['Action', 'Adventure', 'Drama']",1
+tt0378947,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt1807022,Drama,['Drama'],1
+tt1104083,Drama,"['Biography', 'Drama', 'Romance']",1
+tt0364722,Action,"['Action', 'Sport']",1
+tt6277462,Drama,"['Action', 'Adventure', 'Fantasy']",0
+tt1220894,Comedy,['Drama'],0
+tt2423054,Action,['Drama'],0
+tt0168446,Drama,['Drama'],1
+tt0435706,Drama,['Comedy'],0
+tt10062556,Action,"['Action', 'Drama', 'History']",1
+tt0362506,Drama,"['Crime', 'Drama']",1
+tt0796345,Horror,['Horror'],1
+tt1331329,Drama,"['Action', 'Horror', 'Thriller']",0
+tt2140619,Drama,"['Comedy', 'Romance']",0
+tt1046171,Drama,"['Drama', 'Romance']",1
+tt0311866,Action,"['Action', 'Sci-Fi']",1
+tt2292326,Horror,['Horror'],1
+tt2567376,Drama,['Adventure'],0
+tt2638048,Drama,"['Action', 'Sci-Fi', 'Thriller']",0
+tt4688294,Thriller,"['Action', 'Horror', 'Thriller']",1
+tt10944276,Drama,"['Comedy', 'Drama', 'Thriller']",1
+tt1223922,Drama,"['Action', 'Adventure', 'Mystery']",0
+tt0469976,Drama,['Drama'],1
+tt8521718,Drama,"['Biography', 'Drama', 'Music']",1
+tt14850886,Action,['Drama'],0
+tt1070874,Drama,"['Drama', 'History', 'Thriller']",1
+tt4943218,Drama,"['Action', 'Sci-Fi', 'Thriller']",0
+tt3111336,Horror,"['Crime', 'Drama', 'Thriller']",0
+tt3717804,Drama,"['Biography', 'Drama', 'Music']",1
+tt0457355,Comedy,"['Action', 'Drama', 'Family']",0
+tt0443629,Thriller,"['Action', 'Adventure', 'Comedy']",0
+tt0824747,Drama,"['Biography', 'Crime', 'Drama']",1
+tt2381941,Comedy,"['Comedy', 'Crime', 'Drama']",1
+tt5592796,Comedy,"['Biography', 'Comedy', 'Crime']",1
+tt6461318,Drama,['Drama'],1
+tt0822832,Comedy,"['Drama', 'Family']",0
+tt8633478,Drama,"['Mystery', 'Thriller']",0
+tt2294629,Adventure,"['Adventure', 'Animation', 'Comedy']",1
+tt2259380,Comedy,[''],0
+tt6095472,Comedy,"['Action', 'Adventure', 'Animation']",0
+tt1725969,Comedy,"['Animation', 'Drama', 'History']",0
+tt2204540,Drama,['Drama'],1
+tt3326106,Comedy,['Drama'],0
+tt0955412,Drama,['Romance'],0
+tt0269483,Drama,"['Comedy', 'Crime']",0
+tt1063056,Drama,"['Horror', 'Mystery', 'Thriller']",0
+tt7838158,Romance,['Romance'],1
+tt3323638,Action,"['Action', 'Horror', 'Thriller']",1
+tt2296935,Drama,"['Adventure', 'Animation', 'Family']",0
+tt1691917,Comedy,"['Adventure', 'Animation', 'Comedy']",1
+tt11948754,Thriller,"['Crime', 'Drama']",0
+tt0285861,Drama,"['Crime', 'Drama', 'Thriller']",1
+tt15139470,Horror,"['Comedy', 'Horror']",1
+tt1142804,Drama,"['Biography', 'Drama']",1
+tt4626020,Horror,"['Drama', 'Horror', 'Thriller']",1
+tt1640486,Drama,"['Crime', 'Drama']",1
+tt2024503,Horror,['Comedy'],0
+tt0149367,Drama,"['Comedy', 'Crime', 'Drama']",1
+tt6687720,Drama,"['Crime', 'Thriller']",0
+tt1520486,Drama,['Drama'],1
+tt2361509,Comedy,"['Comedy', 'Drama']",1
+tt3703908,Drama,"['Action', 'Crime', 'Drama']",1
+tt0424774,Drama,"['Action', 'Adventure', 'Comedy']",0
+tt11772746,Drama,"['Comedy', 'Drama', 'Musical']",1
+tt4653202,Drama,['Drama'],1
+tt11626108,Drama,"['Horror', 'Mystery', 'Thriller']",0
+tt7557108,Drama,"['Drama', 'Horror', 'Mystery']",1
+tt2328623,Horror,['Horror'],1
+tt0481583,Drama,"['Comedy', 'Drama']",1
+tt0277895,Drama,"['Drama', 'Sport']",1
+tt5881892,Drama,['Drama'],1
+tt2704998,Comedy,"['Action', 'Adventure', 'Comedy']",1
+tt0914798,Drama,"['Drama', 'War']",1
+tt0843843,Drama,"['Drama', 'Romance']",1
+tt1730768,Drama,"['Biography', 'Drama', 'History']",1
+tt0420231,Drama,['Drama'],1
+tt4847454,Drama,"['Horror', 'Thriller']",0
+tt8458736,Action,['Action'],1
+tt0296572,Action,"['Action', 'Adventure', 'Sci-Fi']",1
+tt2232526,Action,['Romance'],0
+tt1645080,Comedy,"['Drama', 'Romance']",0
+tt0388288,Drama,"['Comedy', 'Romance']",0
+tt2562232,Drama,"['Comedy', 'Drama']",1
+tt4771568,Drama,['Drama'],1
+tt8366502,Comedy,"['Comedy', 'Horror']",1
+tt0478273,Drama,['Drama'],1
+tt6823148,Drama,"['Biography', 'Drama', 'History']",1
+tt1839642,Drama,"['Drama', 'Mystery', 'Romance']",1
+tt5859970,Drama,"['Drama', 'Mystery', 'Thriller']",1
+tt2091245,Adventure,"['Biography', 'Documentary', 'Sport']",0
+tt1192628,Drama,"['Action', 'Adventure', 'Animation']",0
+tt0462573,Drama,"['Drama', 'Romance']",1
+tt11349892,Action,['Drama'],0
+tt0254226,Drama,"['Crime', 'Thriller']",0
+tt15010478,Drama,"['Documentary', 'History']",0
+tt2387312,Drama,"['Crime', 'Drama', 'Thriller']",1
+tt1266583,Drama,['Drama'],1
+tt4438706,Comedy,"['Drama', 'Musical']",0
+tt4693860,Comedy,"['Drama', 'Family', 'Romance']",0
+tt6405126,Drama,"['Crime', 'Drama', 'Thriller']",1
+tt7704346,Horror,"['Drama', 'Horror', 'Thriller']",1
+tt2090447,Comedy,['Biography'],0
+tt0171356,Documentary,"['Comedy', 'Crime', 'Romance']",0
+tt0349193,Comedy,['Drama'],0
+tt0206382,Thriller,['Comedy'],0
+tt8209898,Comedy,"['Documentary', 'Sport']",0
+tt3520008,Comedy,"['Comedy', 'Romance']",1
+tt13051214,Drama,['Action'],0
+tt3859076,Drama,"['Biography', 'Drama', 'History']",1
+tt5533370,Drama,"['Biography', 'Drama', 'Sport']",1
+tt8688864,Drama,['Drama'],1
+tt2552570,Romance,['Comedy'],0
+tt5594970,Drama,['Drama'],1
+tt6089700,Horror,"['Drama', 'Horror', 'Mystery']",1
+tt6996016,Drama,"['Comedy', 'Romance']",0
+tt3271120,Drama,"['Comedy', 'Drama']",1
+tt3396208,Drama,"['Drama', 'Sport']",1
+tt19781894,Action,"['Action', 'Crime', 'Drama']",1
+tt6628394,Drama,"['Crime', 'Drama', 'Mystery']",1
+tt1954843,Drama,"['Comedy', 'Sci-Fi']",0
+tt0198284,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt6949398,Thriller,"['Crime', 'Drama', 'Horror']",0
+tt1613679,Thriller,"['Adventure', 'Drama', 'Thriller']",1
+tt20726444,Action,"['Action', 'Thriller']",1
+tt0409459,Drama,"['Action', 'Drama', 'Mystery']",1
+tt12398294,Drama,"['Action', 'Comedy', 'Drama']",1
+tt6695106,Drama,"['Crime', 'Drama']",1
+tt6820324,Comedy,"['Adventure', 'Comedy', 'Drama']",1
+tt6751454,Horror,['Drama'],0
+tt4513538,Drama,"['Comedy', 'Crime', 'Drama']",1
+tt0481797,Drama,"['Drama', 'Fantasy', 'Mystery']",1
+tt0244244,Adventure,"['Action', 'Crime', 'Thriller']",0
+tt3323920,Comedy,"['Comedy', 'Drama', 'Family']",1
+tt5457078,Comedy,"['Drama', 'Romance']",0
+tt1690455,Drama,"['Comedy', 'Drama']",1
+tt1464763,Comedy,"['Mystery', 'Sci-Fi', 'Thriller']",0
+tt0462590,Comedy,"['Crime', 'Drama', 'Music']",0
+tt5131906,Drama,"['Horror', 'Thriller']",0
+tt7533152,Drama,"['Biography', 'Drama', 'History']",1
+tt2706264,Drama,"['Action', 'Comedy', 'Drama']",1
+tt14596320,Comedy,"['Comedy', 'Romance']",1
+tt3282076,Crime,"['Action', 'Crime', 'Thriller']",1
+tt4338434,Drama,"['Comedy', 'Drama']",1
+tt11444698,Action,"['Horror', 'Sci-Fi', 'Thriller']",0
+tt1791682,Drama,"['Comedy', 'Drama', 'Mystery']",1
+tt10375396,Drama,['Drama'],1
+tt0487882,Drama,['Drama'],1
+tt1602620,Drama,['Drama'],1
+tt1477173,Action,"['Crime', 'Drama']",0
+tt0418832,Thriller,"['Drama', 'Romance']",0
+tt1954364,Horror,"['Drama', 'Thriller']",0
+tt0172632,Documentary,['Drama'],0
+tt0810819,Drama,"['Biography', 'Crime', 'Drama']",1
+tt4345774,Drama,"['Action', 'Drama', 'Romance']",1
+tt1087524,Drama,['Crime'],0
+tt2396350,Comedy,"['Comedy', 'Mystery']",1
+tt1336620,Drama,"['Crime', 'Drama', 'Mystery']",1
+tt11452024,Horror,"['Drama', 'Horror']",1
+tt8133888,Action,"['Action', 'Comedy', 'Crime']",1
+tt4513316,Drama,['Drama'],1
+tt9265018,Horror,['Drama'],0
+tt2249081,Drama,['Thriller'],0
+tt2591720,Comedy,"['Animation', 'Family']",0
+tt0403407,Drama,"['Action', 'Drama', 'Fantasy']",1
+tt4762824,Drama,"['Comedy', 'Drama']",1
+tt4061010,Drama,['Thriller'],0
+tt0398027,Drama,"['Drama', 'Romance', 'Thriller']",1
+tt1043756,Comedy,"['Romance', 'Thriller']",0
+tt5427194,Drama,"['Drama', 'Sport']",1
+tt2450334,Comedy,"['Comedy', 'Crime', 'Mystery']",1
+tt13199716,Action,"['Action', 'Crime', 'Thriller']",1
+tt8535472,Drama,['Comedy'],0
+tt2112124,Drama,"['Action', 'Comedy', 'Drama']",1
+tt0422720,Comedy,"['Biography', 'Drama', 'History']",0
+tt1015474,Drama,"['Horror', 'Thriller']",0
+tt5954878,Horror,['Horror'],1
+tt2392385,Drama,['Drama'],1
+tt19796976,Drama,"['Comedy', 'Romance']",0
+tt11766104,Horror,"['Crime', 'Drama']",0
+tt1405500,Drama,['Drama'],1
+tt0478274,Crime,['Comedy'],0
+tt0403935,Action,"['Action', 'Crime', 'Thriller']",1
+tt2513074,Drama,"['Action', 'Drama', 'Sport']",1
+tt0389360,Drama,['Horror'],0
+tt14717428,Drama,"['Drama', 'Family']",1
+tt9352926,Drama,['Drama'],1
+tt3893826,Drama,"['Crime', 'Drama', 'Mystery']",1
+tt1907639,Drama,"['Action', 'Drama']",1
+tt4715356,Comedy,"['Crime', 'Mystery', 'Thriller']",0
+tt1189367,Drama,['Drama'],1
+tt0362227,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt1235430,Comedy,['Comedy'],1
+tt0303103,Drama,['Action'],0
+tt2563562,Thriller,"['Action', 'Fantasy', 'Sci-Fi']",0
+tt1460661,Thriller,"['Comedy', 'Drama']",0
+tt0273822,Thriller,"['Biography', 'Drama']",0
+tt1827578,Drama,['Drama'],1
+tt0393735,Comedy,"['Comedy', 'Family', 'Fantasy']",1
+tt1135938,Horror,['Comedy'],0
+tt0234354,Drama,"['Comedy', 'Crime', 'Drama']",1
+tt2917574,Comedy,['Animation'],0
+tt0258562,Drama,"['Drama', 'Thriller']",1
+tt1379177,Drama,"['Crime', 'Thriller']",0
+tt4790338,Thriller,"['Comedy', 'Drama', 'Sport']",0
+tt1999192,Drama,"['Comedy', 'Documentary']",0
+tt6587640,Comedy,"['Adventure', 'Animation', 'Comedy']",1
+tt4687108,Drama,"['Horror', 'Mystery', 'Sci-Fi']",0
+tt1773753,Action,"['Crime', 'Horror', 'Mystery']",0
+tt0345777,Action,"['Drama', 'Sci-Fi', 'Thriller']",0
+tt3606752,Comedy,"['Adventure', 'Animation', 'Comedy']",1
+tt0489048,Drama,"['Action', 'Drama', 'Horror']",1
+tt0411545,Drama,['Drama'],1
+tt0208017,Comedy,"['Crime', 'Drama', 'Romance']",0
+tt3710778,Documentary,['War'],0
+tt9697774,Drama,['Drama'],1
+tt2243555,Drama,['Comedy'],0
+tt0795361,Drama,['Comedy'],0
+tt0246157,Drama,['Drama'],1
+tt2926554,Comedy,"['Documentary', 'Drama']",0
+tt12361178,Action,"['Crime', 'Drama', 'Thriller']",0
+tt0331509,Drama,"['Comedy', 'Family']",0
+tt2637276,Comedy,['Comedy'],1
+tt6204392,Drama,"['Action', 'Horror', 'Thriller']",0
+tt1580346,Drama,"['Action', 'Biography', 'Documentary']",0
+tt7941422,Horror,['Thriller'],0
+tt6206564,Drama,"['Drama', 'Thriller']",1
+tt0455824,Biography,"['Adventure', 'Drama', 'Romance']",0
+tt8851148,Drama,"['Drama', 'Romance', 'Sci-Fi']",1
+tt1971403,Comedy,['Comedy'],1
+tt0481544,Drama,"['Action', 'Drama']",1
+tt7144666,Drama,"['Horror', 'Thriller']",0
+tt1521023,Drama,['Drama'],1
+tt4392342,Drama,['Documentary'],0
+tt9032400,Action,"['Action', 'Adventure', 'Fantasy']",1
+tt1325702,Documentary,['Documentary'],1
+tt0307553,Comedy,"['Crime', 'Romance', 'Thriller']",0
+tt1266139,Drama,['Action'],0
+tt9414024,Comedy,['Thriller'],0
+tt4162034,Drama,['Drama'],1
+tt0452608,Thriller,"['Action', 'Sci-Fi', 'Thriller']",1
+tt2400463,Drama,"['Drama', 'Horror', 'Mystery']",1
+tt1495997,Drama,"['Music', 'Romance']",0
+tt0284664,Drama,['Comedy'],0
+tt0455538,Drama,"['Biography', 'Comedy', 'Drama']",1
+tt1190910,Comedy,"['Action', 'Fantasy', 'Horror']",0
+tt1134671,Action,"['Horror', 'Sci-Fi', 'Thriller']",0
+tt0399146,Drama,"['Action', 'Crime', 'Drama']",1
+tt1748197,Action,"['Action', 'Crime', 'Drama']",1
+tt0799949,Comedy,"['Adventure', 'Comedy', 'Fantasy']",1
+tt0406375,Action,"['Action', 'Adventure', 'Comedy']",1
+tt0183649,Drama,"['Crime', 'Thriller']",0
+tt4624366,Drama,"['Horror', 'Mystery', 'Thriller']",0
+tt15078854,Action,['Drama'],0
+tt10203940,Drama,"['Comedy', 'Family', 'Fantasy']",0
+tt2342808,Horror,"['Drama', 'Horror', 'Thriller']",1
+tt0399110,Action,"['Comedy', 'Drama']",0
+tt0285879,Thriller,"['Comedy', 'Drama', 'Romance']",0
+tt0884732,Comedy,['Comedy'],1
+tt1874615,Comedy,['Comedy'],1
+tt13236108,Horror,"['Comedy', 'Drama']",0
+tt2191721,Drama,"['Comedy', 'Musical', 'Romance']",0
+tt0486561,Comedy,['Drama'],0
+tt1014798,Horror,['Horror'],1
+tt8906844,Drama,['Mystery'],0
+tt0420223,Comedy,"['Comedy', 'Drama', 'Fantasy']",1
+tt0472126,Thriller,['Drama'],0
+tt4511200,Drama,['Drama'],1
+tt0452643,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt5993468,Action,['Animation'],0
+tt1065093,Horror,['Drama'],0
+tt0450385,Documentary,"['Fantasy', 'Horror', 'Mystery']",0
+tt14694668,Drama,['Drama'],1
+tt3888834,Drama,['Documentary'],0
+tt2254129,Romance,"['Drama', 'Mystery', 'Romance']",1
+tt1852947,Comedy,"['Horror', 'Thriller']",0
+tt0879405,Drama,['Thriller'],0
+tt1531930,Comedy,['Drama'],0
+tt7758160,Action,"['Action', 'Thriller']",1
+tt0322589,Comedy,"['Drama', 'Music', 'Romance']",0
+tt0378109,Comedy,"['Action', 'Adventure', 'Crime']",0
+tt4701724,Drama,"['Adventure', 'Animation', 'Comedy']",0
+tt13515090,Drama,"['Comedy', 'Drama']",1
+tt11212786,Horror,['Horror'],1
+tt1094297,Comedy,['Drama'],0
+tt6032290,Drama,['Drama'],1
+tt0969348,Drama,"['Animation', 'Drama']",1
+tt0406097,Action,"['Comedy', 'Drama', 'Romance']",0
+tt1237838,Comedy,"['Comedy', 'Crime', 'Mystery']",1
+tt2980152,Comedy,['Horror'],0
+tt1016090,Action,"['Horror', 'Romance', 'Thriller']",0
+tt5580390,Drama,"['Drama', 'Fantasy', 'Romance']",1
+tt3721924,Drama,"['Comedy', 'Drama']",1
+tt1487118,Drama,"['Comedy', 'Romance', 'Sport']",0
+tt11668320,Drama,"['Biography', 'Crime', 'Documentary']",0
+tt2968804,Drama,"['Action', 'Comedy', 'Crime']",0
+tt3520418,Horror,"['Horror', 'Mystery']",1
+tt1326242,Drama,"['Drama', 'Music', 'Romance']",1
+tt9420648,Drama,['Comedy'],0
+tt0493386,Action,['Crime'],0
+tt1977002,Drama,"['Drama', 'Romance']",1
+tt2488788,Drama,['Comedy'],0
+tt0376650,Drama,"['Drama', 'Horror', 'Thriller']",1
+tt1634106,Crime,"['Action', 'Adventure', 'Sci-Fi']",0
+tt1822311,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt0393733,Comedy,['Sci-Fi'],0
+tt0398808,Drama,"['Drama', 'Family', 'Fantasy']",1
+tt2943990,Horror,"['Adventure', 'Drama', 'Fantasy']",0
+tt6923248,Drama,['Drama'],1
+tt0393049,Horror,"['Comedy', 'Drama', 'Romance']",0
+tt1984116,Drama,"['Horror', 'Mystery', 'Thriller']",0
+tt12530246,Action,"['Action', 'Thriller']",1
+tt3739110,Drama,"['Drama', 'War']",1
+tt6828390,Drama,"['Biography', 'Drama', 'Thriller']",1
+tt1339088,Drama,['Drama'],1
+tt0364435,Drama,['Drama'],1
+tt2291284,Drama,"['Drama', 'Mystery']",1
+tt0404908,Horror,['Horror'],1
+tt1090749,Drama,['Drama'],1
+tt0397401,Drama,"['Comedy', 'Crime']",0
+tt1516577,Drama,"['Adventure', 'Comedy', 'Drama']",1
+tt3410834,Drama,"['Action', 'Adventure', 'Mystery']",0
+tt2884308,Action,['Drama'],0
+tt0190736,Comedy,['Drama'],0
+tt4853102,Documentary,"['Action', 'Animation', 'Crime']",0
+tt0212380,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt2202527,Horror,['Music'],0
+tt0462362,Action,"['Comedy', 'Horror', 'Romance']",0
+tt7854882,Comedy,"['Drama', 'Family', 'Music']",0
+tt5664502,Action,"['Action', 'Adventure', 'Crime']",1
+tt4082524,Drama,"['Drama', 'War']",1
+tt0860866,Drama,"['Crime', 'Drama', 'Romance']",1
+tt11160650,Comedy,"['Comedy', 'Crime', 'Drama']",1
+tt0304458,Comedy,"['Comedy', 'Romance']",1
+tt6388200,Horror,['Horror'],1
+tt9248940,Comedy,"['Comedy', 'Romance']",1
+tt0929756,Horror,"['Horror', 'Thriller']",1
+tt5342950,Drama,['Drama'],1
+tt6215446,Comedy,"['Comedy', 'Horror']",1
+tt2083332,Drama,['Drama'],1
+tt0315733,Drama,"['Crime', 'Drama', 'Thriller']",1
+tt1386703,Drama,"['Action', 'Adventure', 'Sci-Fi']",0
+tt2379673,Comedy,"['Action', 'Comedy']",1
+tt1827354,Thriller,"['Action', 'Comedy', 'Crime']",0
+tt0790713,Drama,"['Action', 'Adventure', 'Comedy']",0
+tt3569374,Drama,"['Drama', 'Horror', 'Mystery']",1
+tt13841394,Drama,"['Drama', 'Thriller']",1
+tt1178665,Drama,"['Adventure', 'Biography', 'Comedy']",0
+tt3831242,Horror,['Thriller'],0
+tt4040984,Horror,"['Drama', 'Family', 'Fantasy']",0
+tt0251756,Action,"['Action', 'Adventure', 'Romance']",1
+tt0322023,Drama,['Comedy'],0
+tt4820418,Drama,['Comedy'],0
+tt0438488,Drama,"['Action', 'Adventure', 'Sci-Fi']",0
+tt5357790,Drama,"['Action', 'Drama', 'Music']",1
+tt15524132,Drama,"['Drama', 'Mystery', 'Romance']",1
+tt0376874,Drama,"['Comedy', 'Drama']",1
+tt0485376,Drama,"['Horror', 'Romance', 'Thriller']",0
+tt5700494,Drama,"['Horror', 'Thriller']",0
+tt1780967,Drama,"['Biography', 'Drama', 'Thriller']",1
+tt3793648,Drama,"['Drama', 'Mystery', 'Thriller']",1
+tt1262955,Horror,"['Horror', 'Thriller']",1
+tt5886046,Comedy,"['Action', 'Adventure', 'Horror']",0
+tt1683919,Action,"['Action', 'Drama']",1
+tt6187134,Comedy,['Drama'],0
+tt3910736,Action,"['Action', 'Comedy', 'Thriller']",1
+tt6680792,Comedy,"['Adventure', 'Animation', 'Family']",0
+tt13229946,Drama,"['Comedy', 'Drama']",1
+tt6060964,Drama,"['Biography', 'Drama']",1
+tt2179087,Drama,"['Drama', 'Horror', 'Romance']",1
+tt0325537,Drama,['Comedy'],0
+tt2983922,Thriller,['Sci-Fi'],0
+tt9109306,Drama,['Horror'],0
+tt0376136,Comedy,"['Comedy', 'Drama']",1
+tt4894198,Drama,['Thriller'],0
+tt8752498,Drama,"['Action', 'Animation', 'Fantasy']",0
+tt1474889,Drama,"['Comedy', 'Drama']",1
+tt5420870,Drama,"['Action', 'Comedy', 'Crime']",0
+tt7237192,Comedy,['Drama'],0
+tt14101678,Horror,['Thriller'],0
+tt1315981,Drama,"['Crime', 'Drama', 'Romance']",1
+tt4929594,Comedy,"['Biography', 'Music']",0
+tt10739666,Action,"['Action', 'Crime', 'Drama']",1
+tt11214590,Drama,"['Biography', 'Crime', 'Drama']",1
+tt9551424,Comedy,"['Horror', 'Sci-Fi']",0
+tt9147456,Drama,['Drama'],1
+tt0454084,Action,"['Comedy', 'Romance']",0
+tt11573276,Drama,['Horror'],0
+tt2238769,Drama,"['Documentary', 'Sport']",0
+tt0417586,Drama,['Drama'],1
+tt3219686,Comedy,['Thriller'],0
+tt0430357,Action,"['Action', 'Adventure', 'Crime']",1
+tt4680568,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt0272557,Horror,"['Drama', 'Sci-Fi']",0
+tt3682546,Drama,['Thriller'],0
+tt3464018,Drama,"['Documentary', 'History']",0
+tt5332502,Drama,"['Action', 'Comedy']",0
+tt0411061,Drama,"['Crime', 'Drama', 'Mystery']",1
+tt11161474,Drama,['Drama'],1
+tt1920969,Horror,['Thriller'],0
+tt5160938,Drama,"['Biography', 'Crime', 'Drama']",1
+tt0359024,Thriller,"['Crime', 'Drama', 'Thriller']",1
+tt1980218,Comedy,"['Comedy', 'Drama', 'Romance']",1
+tt0790636,Comedy,"['Biography', 'Drama']",0
+tt2581244,Comedy,"['Comedy', 'Fantasy', 'Horror']",1
+tt10230436,Drama,"['Drama', 'Musical']",1
+tt0313245,Comedy,['Comedy'],1
+tt3122608,Drama,"['Comedy', 'Drama']",1
+tt1719543,Horror,['Drama'],0
+tt6864090,Drama,['Action'],0
+tt4019438,Drama,"['Documentary', 'News']",0
+tt14975252,Drama,['Action'],0
+tt3594042,Horror,"['Horror', 'Thriller']",1
+tt1832516,Romance,['Comedy'],0
+tt2198191,Drama,['Drama'],1
+tt1881085,Drama,"['Drama', 'Romance']",1
+tt3393060,Horror,['Sci-Fi'],0
+tt3038734,Action,['Drama'],0
+tt5699126,Drama,"['Documentary', 'History', 'News']",0
+tt9251598,Animation,['Animation'],1
+tt2104837,Action,"['Action', 'Crime', 'Drama']",1
+tt1242460,Documentary,"['Drama', 'Mystery', 'Thriller']",0
+tt0315411,Drama,"['Horror', 'Thriller']",0
+tt1247662,Comedy,"['Comedy', 'Romance']",1
+tt1587436,Action,"['Action', 'Drama', 'Thriller']",1
+tt2463512,Drama,"['Drama', 'Romance']",1
+tt1727816,Drama,"['Crime', 'Drama']",1
+tt16578860,Drama,"['Comedy', 'Drama', 'Romance']",1
+tt5182526,Drama,"['Drama', 'Family']",1
+tt0970468,Drama,"['Comedy', 'Romance']",0
+tt0364067,Drama,"['Drama', 'Romance']",1
+tt0870176,Horror,"['Comedy', 'Drama', 'Horror']",1
+tt1978425,Drama,"['Comedy', 'Drama']",1
+tt1053810,Comedy,['Comedy'],1
+tt0445968,Drama,['Drama'],1
+tt1977953,Drama,"['Comedy', 'Drama', 'Western']",1
+tt6069126,Drama,['Drama'],1
+tt1143110,Drama,"['Comedy', 'Crime']",0
+tt0446013,Drama,"['Action', 'Adventure', 'Drama']",1
+tt1114680,Drama,['Drama'],1
+tt1054509,Action,['Comedy'],0
+tt4062536,Drama,"['Crime', 'Drama', 'Horror']",1
+tt13863374,Horror,['Horror'],1
+tt11692148,Drama,['Drama'],1
+tt1631707,Drama,"['Mystery', 'Sci-Fi', 'Thriller']",0
+tt0228891,Drama,"['Crime', 'Drama', 'Horror']",1
+tt0132885,Drama,['Thriller'],0
+tt11599576,Drama,['Drama'],1
+tt0896529,Drama,"['Drama', 'Romance']",1
+tt5239972,Comedy,"['Action', 'Sci-Fi', 'Thriller']",0
+tt8244784,Drama,"['Action', 'Horror', 'Thriller']",0
+tt5990342,Comedy,['Comedy'],1
+tt1621046,Documentary,"['Biography', 'Drama']",0
+tt1428538,Thriller,"['Action', 'Fantasy', 'Horror']",0
+tt0415833,Drama,"['Crime', 'Drama', 'Mystery']",1
+tt0897361,Drama,"['Horror', 'Mystery', 'Thriller']",0
+tt5469480,Drama,['Comedy'],0
+tt1043841,Action,"['Comedy', 'Romance']",0
+tt14025212,Drama,['Thriller'],0
+tt5867314,Drama,"['Drama', 'Horror', 'Mystery']",1
+tt0411267,Drama,"['Drama', 'Fantasy', 'Horror']",1
+tt13237402,Horror,['Sci-Fi'],0
+tt1869265,Action,['Drama'],0
+tt1059786,Documentary,"['Action', 'Mystery', 'Thriller']",0
+tt1247692,Drama,"['Comedy', 'Drama']",1
+tt8336022,Horror,['Thriller'],0
+tt0440974,Drama,['Drama'],1
+tt1976009,Drama,"['Drama', 'Horror', 'Sci-Fi']",1
+tt13036930,Drama,"['Adventure', 'Sci-Fi']",0
+tt1989475,Drama,"['Crime', 'Drama', 'Horror']",1
+tt4384350,Drama,"['Drama', 'Thriller']",1
+tt1762370,Drama,['Comedy'],0
+tt1086772,Comedy,"['Comedy', 'Romance']",1
+tt8951692,Drama,"['Comedy', 'Drama', 'Music']",1
+tt1536051,Drama,"['Crime', 'Drama']",1
+tt0386117,Drama,"['Adventure', 'Drama', 'Family']",1
+tt1236216,Action,['Romance'],0
+tt1205535,Drama,"['Comedy', 'Romance']",0
+tt0952682,Drama,"['Drama', 'Thriller']",1
+tt5578150,Comedy,"['Comedy', 'Drama', 'Romance']",1
+tt2692904,Drama,['Drama'],1
+tt0310334,Drama,['Comedy'],0
+tt10997536,Horror,['Comedy'],0
+tt2123342,Drama,"['Drama', 'Family', 'Sport']",1
+tt0497365,Drama,"['Drama', 'Thriller']",1
+tt3563156,Action,"['Action', 'Crime', 'Thriller']",1
+tt14450978,Action,"['Action', 'Fantasy', 'Sci-Fi']",1
+tt12743636,Drama,['Drama'],1
+tt10356564,Drama,"['Drama', 'Mystery', 'Thriller']",1
+tt0371843,Comedy,['Comedy'],1
+tt10793644,Drama,"['Horror', 'Mystery', 'Thriller']",0
+tt0867401,Action,"['Action', 'Comedy', 'Drama']",1
+tt6589442,Drama,"['Comedy', 'Drama', 'Romance']",1
